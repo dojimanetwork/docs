@@ -167,8 +167,8 @@ markdown_extensions:
       permalink_title: Link to this section
       toc_depth: 4
   - codehilite
-  - markdown_include.include:
-      base_path: docs
+  # - markdown_include.include:
+  #     base_path: docs
   - admonition
   - footnotes
   - def_list
@@ -195,7 +195,6 @@ markdown_extensions:
 
 plugins:
   - search
-  - open-in-new-tab
   - git-revision-date-localized:
       fallback_to_build_date: true
       strict: false
