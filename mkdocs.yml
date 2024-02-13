@@ -196,8 +196,8 @@ markdown_extensions:
       permalink_title: Link to this section
       toc_depth: 4
   - codehilite
-  - markdown_include.include:
-      base_path: docs
+  # - markdown_include.include:
+  #     base_path: docs
   - admonition
   - footnotes
   - def_list
