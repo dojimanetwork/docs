@@ -24,19 +24,15 @@ hide:
 					<div class="hero-left">
 						<h1 class="hero-heading">The Layer of Dojima Knowledge</h1>
 						<div class="hero-div">
-						<p class="hero-subtext"> Welcome to the Dojima Protocols and Building Technologies, technical documentation and knowledge base.</p>
-						<p class="hero-subtext">Discover our expansive documentation hub, offering technical guides, knowledge resources, and setup instructions for harnessing our templates, developer dashboard, faucet, omnichain wallet, and other indispensable tools.
+						<p class="hero-subtext"> Welcome to the Dojima Network Documentation! As pioneers in the Web3 space, we're thrilled to guide you through the seamless world of crosschain connectivity.</p>
+						<p class="hero-subtext">Our documentation is crafted to empower you, whether you're developing innovative applications or diving into blockchain technology for the first time. Here, you'll find everything you need to harness the full potential of Dojima Network. Dive in, explore, and join us in shaping the future of a unified Web3 ecosystem. Your journey towards groundbreaking discoveries starts now!
 						</p>
 						</div>
 						<a class="button-container" href="core/">
 							<button class="getstarted-button">
-							Get Started
+							Get Started <img src="img/rounded-right-arrow.svg" loading="lazy" alt="">
 							</button>
-							<div class="icon-background">
-							<img src="img/rounded-right-arrow.svg" loading="lazy" alt="">
-							</div>
 						</a>
-						<!-- <p class="hero-subtext"> Learn how to build and deploy dApps, launch ZK rollups and validiums as Layer 2s on Ethereum, spin up nodes, and find out about the latest in zero-knowledge research.<p> -->
 					</div>
 					<div class="hero-right"><img src="img/rightimage.svg" loading="lazy" alt="" class="hero-image"></div>
 				</div>
