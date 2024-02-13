@@ -195,11 +195,11 @@ markdown_extensions:
 
 plugins:
   - search
-  - git-revision-date-localized:
-      fallback_to_build_date: true
-      strict: false
-      exclude:
-        - index.md
+  # - git-revision-date-localized:
+  #     fallback_to_build_date: true
+  #     strict: false
+  #     exclude:
+  #       - index.md
 
 validation:
   absolute_links: ignore
