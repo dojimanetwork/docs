@@ -10,7 +10,7 @@ hide:
 </style>
 
 <div class="section-wrapper product-section-head">
-   <div class="hero-image"><img src="../img/core.png" loading="lazy" class="hero-image" style="width: 40%; float: right;"></div>
+   <div class="hero-image"><img src="../img/Core.png" loading="lazy" class="hero-image" style="width: 40%; float: right;"></div>
    <div class="hero-left">
       <h1 class="hero-heading">Core</h1>
       <p class="hero-subtext">Unveiling Dojima Network's essence, highlighting the innovative infrastructure of Hermes and Dojima chains.</p>
