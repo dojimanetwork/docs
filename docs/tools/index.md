@@ -1,6 +1,6 @@
 ---
 hide:
-- toc
+  - toc
 ---
 
 <style>
@@ -20,7 +20,7 @@ hide:
 
 <div class="grid-container">
    <div class="grid-item">
-      <a href="/wallet">
+      <a href="wallet">
          <div class="product-list-item-header">
             <div class="feature-card-heading">Dojima Wallet</div>
          </div>
@@ -28,7 +28,7 @@ hide:
       </a>
    </div>
    <div class="grid-item">
-      <a href="/dojima-faas">
+      <a href="dojima-faas">
          <div class="product-list-item-header">
             <div class="feature-card-heading">Dojima Fass</div>
          </div>
@@ -36,7 +36,7 @@ hide:
       </a>
    </div>
    <div class="grid-item">
-      <a href="./developer-dashboard">
+      <a href="developer-dashboard">
          <div class="product-list-item-header">
             <div class="feature-card-heading">Developer Dashboard</div>
          </div>

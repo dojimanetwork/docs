@@ -28,7 +28,7 @@ hide:
 						<p class="hero-subtext">Learn the methods to build and deploy dApps, launch ZK rollups and validiums as Layer 2s on Ethereum, set up nodes, and stay informed about the latest advancements in zero-knowledge research.
 						</p>
 						</div>
-						<a class="button-container" href="hermes/">
+						<a class="button-container" href="core/">
 							<button class="getstarted-button">
 							Get Started
 							</button>
@@ -53,10 +53,10 @@ hide:
 				</div>
 				<p class="div-leftcard-p">Unveiling Dojima Network's essence, highlighting the innovative infrastructure of Hermes and Dojima chains.</p>
 				<div class="div-card-button-container">
-					<a class="div-card-button" href="hermes/what-is-dojima-network/">
+					<a class="div-card-button" href="core/what-is-dojima-network/">
 							What is Dojima Network? <img src="img/rightuparrow.svg" loading="lazy" alt="">
 					</a>
-					<a class="div-card-button" href="hermes/architecture/hermeschain/">
+					<a class="div-card-button" href="core/architecture/hermeschain/">
 						Hermes Chain <img src="img/rightuparrow.svg" loading="lazy" alt="">
 					</a>
 			   </div>
@@ -70,10 +70,10 @@ hide:
 				</div>
 				<p class="div-leftcard-p">Your resource hub for seamless onboarding and support within our evolving ecosystem.</p>
 				<div class="div-card-button-container">
-					<a class="div-card-button" href="Dojima/templates/omni_chain_ERC20/">
+					<a class="div-card-button" href="developer/templates/omni_chain_ERC20/">
 							Templates <img src="img/rightuparrow.svg" loading="lazy" alt="">
 					</a>
-					<a class="div-card-button" href="Dojima/faucet/">
+					<a class="div-card-button" href="developer/faucet/">
 						Faucet<img src="img/rightuparrow.svg" loading="lazy" alt="">
 					</a>
 			   </div>
@@ -87,7 +87,7 @@ hide:
 					<h3>Tools</h3>
 				</div>
 				<p class="first-p">Explore our versatile tools section featuring a cross-chain wallet, innovative FAAS solution, and developer dashboard for seamless integration.</p>
-				<a class="middle-p" href="wallet/">
+				<a class="middle-p" href="tools/wallet/">
 				<div class="right-grid-a">
 				 <p class="right-p  ">Dojima Wallet</p>
 			<img src="img/rightuparrow.svg" loading="lazy" alt="">
@@ -96,7 +96,7 @@ hide:
 				</div>
 				  <p style="margin-top:8px">Dojima wallet lets you organise major layer 1 tokens in one place.</p>
 				</a>
-				<a class="middle-p" href="dojima-faas/">
+				<a class="middle-p" href="tools/dojima-faas/">
 				<div class="right-grid-a">
 				 <p class="right-p">Dojima Fass</p>
 				<img src="img/rightuparrow.svg" loading="lazy" alt="">
@@ -104,7 +104,7 @@ hide:
 				</div>
 				  <p style="margin-top:8px">Dojima FAAS offers blockchain services like transaction signing and history viewing.</p>
 				</a>
-				<a class="last-p" href="developer-dashboard/login/">
+				<a class="last-p" href="tools/developer-dashboard/login/">
 				<div class="right-grid-a" >
 				 <p class="right-p ">Developer Dashboard</p>
 				 <img src="img/rightuparrow.svg" loading="lazy" alt="">

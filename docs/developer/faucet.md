@@ -7,7 +7,7 @@ The Faucet is a web-based service that can send you some test tokens so that you
 
 ## Prerequisites
 
-Before we begin, you must have the testnet address of the respective chain. To obtain an address, Login or Register into Dojima Wallet. If you don't have a seed phrase, [follow these steps](../wallet/index.md).
+Before we begin, you must have the testnet address of the respective chain. To obtain an address, Login or Register into Dojima Wallet. If you don't have a seed phrase, [follow these steps](../tools/wallet/index.md).
 
 To request tokens using the faucet.
 

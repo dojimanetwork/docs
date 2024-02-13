@@ -44,74 +44,74 @@ theme:
 nav:
   - Home: index.md
   - Core:
-       - Core: hermes/index.md
+       - Core: core/index.md
        - GetStarted:
          - What is Dojima Network?:
-           - What is Dojima Network?: hermes/what-is-dojima-network.md
-           - Dojima Chain: hermes/dojima-chain.md
-           - Hermes Chain: hermes/architecture/hermeschain.md
+           - What is Dojima Network?: core/what-is-dojima-network.md
+           - Dojima Chain: core/dojima-chain.md
+           - Hermes Chain: core/architecture/hermeschain.md
        - Dojima :
          - Network : 
-           - Network EndPoints: Dojima/Network/endpoints.md
+           - Network EndPoints: developer/Network/endpoints.md
          - Contract:
-           - Inbound State Sender: hermes/architecture/contracts/inbound_state_sender.md
-           - Outbound State Sender: hermes/architecture/contracts/outbound_state_sender.md
+           - Inbound State Sender: core/architecture/contracts/inbound_state_sender.md
+           - Outbound State Sender: core/architecture/contracts/outbound_state_sender.md
        - Hermes :
           - Chain Clients:
             - Evm:
-                - Client: hermes/chain-clients/evm/client.md
+                - Client: core/chain-clients/evm/client.md
             - Non Evm:
-                - Arweave: hermes/chain-clients/nonevm/arweave.md
-                - Polkadot: hermes/chain-clients/nonevm/polkadot.md
+                - Arweave: core/chain-clients/nonevm/arweave.md
+                - Polkadot: core/chain-clients/nonevm/polkadot.md
                 - Solana: 
-                  - Solana Client: hermes/chain-clients/nonevm/solana/solana-client.md
-                  - Solana State Sender: hermes/chain-clients/nonevm/solana/solana-state-sender.md
-            - Hermes Bridge: hermes/chain-clients/evm/hermes-bridge.md
-            - Ethereum State Sender Contract: hermes/chain-clients/evm/state-sender-contract.md
+                  - Solana Client: core/chain-clients/nonevm/solana/solana-client.md
+                  - Solana State Sender: core/chain-clients/nonevm/solana/solana-state-sender.md
+            - Hermes Bridge: core/chain-clients/evm/hermes-bridge.md
+            - Ethereum State Sender Contract: core/chain-clients/evm/state-sender-contract.md
           - Resources :
-            - Endpoints: hermes/Resources/endpoints.md 
-            - Faucet: hermes/Resources/faucet.md 
-            - Transaction: hermes/Resources/transaction.md  
+            - Endpoints: core/Resources/endpoints.md 
+            - Faucet: developer/faucet/ 
+            - Transaction: core/Resources/transaction.md  
           - Concepts:
-            - Code Liberies: hermes/concepts/code.liberies.md
-            - Connecting Doj Chain: hermes/concepts/connecting.doj.chain.md
-            - Querying: hermes/concepts/querying.md
-            - Transaction Memos: hermes/concepts/transaction.memos.md
+            - Code Liberies: core/concepts/code.liberies.md
+            - Connecting Doj Chain: core/concepts/connecting.doj.chain.md
+            - Querying: core/concepts/querying.md
+            - Transaction Memos: core/concepts/transaction.memos.md
           - D11K Guide:
-            - Arweave: hermes/d11kguide/arweave.md
-            - Binance Becon: hermes/d11kguide/binance-becon.md
-            - Bitcoin: hermes/d11kguide/bitcoin.md
-            - Client: hermes/d11kguide/client.md
-            - Cosmos: hermes/d11kguide/cosmos.md
-            - Crypto: hermes/d11kguide/crypto.md
-            - Ethereum: hermes/d11kguide/ethereum.md
-            - Hermes: hermes/d11kguide/hermes.md
-            - Polkadot: hermes/d11kguide/polkadot.md
-            - Solana: hermes/d11kguide/solana.md
-            - Utils: hermes/d11kguide/utils.md
+            - Arweave: core/d11kguide/arweave.md
+            - Binance Becon: core/d11kguide/binance-becon.md
+            - Bitcoin: core/d11kguide/bitcoin.md
+            - Client: core/d11kguide/client.md
+            - Cosmos: core/d11kguide/cosmos.md
+            - Crypto: core/d11kguide/crypto.md
+            - Ethereum: core/d11kguide/ethereum.md
+            - Hermes: core/d11kguide/hermes.md
+            - Polkadot: core/d11kguide/polkadot.md
+            - Solana: core/d11kguide/solana.md
+            - Utils: core/d11kguide/utils.md
   - Developers :
-            - Developer: Dojima/index.md
-            - Overview: Dojima/quickstart.md  
-            - Faucet : Dojima/faucet.md 
+            - Developer: developer/index.md
+            - Overview: developer/quickstart.md  
+            - Faucet : developer/faucet.md 
             - Templates:
-              - OmnicChain ERC20: Dojima/templates/omni_chain_ERC20.md
-              - OmniChain NFT : Dojima/templates/omni_chain_NFT.md
-              - Deposit Manager: Dojima/templates/deposit_manager.md
+              - OmnicChain ERC20: developer/templates/omni_chain_ERC20.md
+              - OmniChain NFT : developer/templates/omni_chain_NFT.md
+              - Deposit Manager: developer/templates/deposit_manager.md
             - Network : 
-              - Network EndPoints: Dojima/Network/endpoints.md
+              - Network EndPoints: developer/Network/endpoints.md
             - Resources :
-                Basics of Web3 Development: Dojima/Resources/basic.md
-                External Documentation: Dojima/Resources/external.md
+                Basics of Web3 Development: developer/Resources/basic.md
+                External Documentation: developer/Resources/external.md
             - Wallet:
-              - Get Started: Dojima/Wallet/getstarted.md
+              - Get Started: developer/Wallet/getstarted.md
               - Metamask : 
-                - Add Dojima Network : Dojima/Wallet/MetaMask/config-dojima-on-metamask.md
-                - Config Custom Tokens : Dojima/Wallet/MetaMask/custom-tokens.md
-                - Create & Import Accounts : Dojima/Wallet/MetaMask/multiple-accounts.md
-                - Overview of MetaMask : Dojima/Wallet/MetaMask/overview.md
-                - Hello Metamask : Dojima/Wallet/MetaMask/tutorial-metamask.md  
-            - Transaction : Dojima/transactions.md
-            - Verifying A Smart Contract : Dojima/verifying-smart-contract.md
+                - Add Dojima Network : developer/Wallet/MetaMask/config-dojima-on-metamask.md
+                - Config Custom Tokens : developer/Wallet/MetaMask/custom-tokens.md
+                - Create & Import Accounts : developer/Wallet/MetaMask/multiple-accounts.md
+                - Overview of MetaMask : developer/Wallet/MetaMask/overview.md
+                - Hello Metamask : developer/Wallet/MetaMask/tutorial-metamask.md  
+            - Transaction : developer/transactions.md
+            - Verifying A Smart Contract : developer/verifying-smart-contract.md
   - Validator :
            - Validator : validator/index.md 
            - Hermes Deployment :
@@ -123,25 +123,25 @@ nav:
   - Tools:
        - Tools : tools/index.md
        - Dojima Wallet : 
-         - Create Account : wallet/index.md 
-         - Wallet Login : wallet/wallet-login.md
-         - Wallet Swap : wallet/wallet-swap.md
+         - Create Account : tools/wallet/index.md 
+         - Wallet Login : tools/wallet/wallet-login.md
+         - Wallet Swap : tools/wallet/wallet-swap.md
        - Dojima FASS :
-         - Dojima Fass: dojima-faas/index.md
-         - Account: dojima-faas/faasaccount.md
-         - Price Stats: dojima-faas/faaspricestats.md
-         - User: dojima-faas/faasuser.md
-         - Transaction Details: dojima-faas/transactiondetails.md
+         - Dojima Fass: tools/dojima-faas/index.md
+         - Account: tools/dojima-faas/faasaccount.md
+         - Price Stats: tools/dojima-faas/faaspricestats.md
+         - User: tools/dojima-faas/faasuser.md
+         - Transaction Details: tools/dojima-faas/transactiondetails.md
        - Developer Dashboard: 
-         - Developer Dashboard: developer-dashboard/index.md
-         - Login: developer-dashboard/login.md
+        #  - Developer Dashboard: tools/developer-dashboard/index.md
+         - Login: tools/developer-dashboard/login.md
          - Dashboard: 
            - Create: 
-             - New Project: developer-dashboard/dashboard/new_project.md
-             - Templates: developer-dashboard/dashboard/templates.md
-         - Projects: developer-dashboard/projects.md
-         - XChain Connections: developer-dashboard/xchain_connections.md
-         - Contract: developer-dashboard/contract.md
+             - New Project: tools/developer-dashboard/dashboard/new_project.md
+             - Templates: tools/developer-dashboard/dashboard/templates.md
+         - Projects: tools/developer-dashboard/projects.md
+         - XChain Connections: tools/developer-dashboard/xchain_connections.md
+         - Contract: tools/developer-dashboard/contract.md
   # - Templates:
   #   - OmniChain ERC20: templates/omni_chain_ERC20.md
   #   - OmniChain NFT : templates/omni_chain_NFT.md
