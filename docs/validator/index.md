@@ -19,7 +19,7 @@ hide:
 
 <div class="grid-container">
    <div class="grid-item">
-      <a href="hermes/hermesdeployment/cluster-launcher/setup-aws/">
+      <a href="hermesdeployment/cluster-launcher/setup-aws/">
          <div class="product-list-item-header">
             <div class="feature-card-heading">Setup AWS</div>
          </div>

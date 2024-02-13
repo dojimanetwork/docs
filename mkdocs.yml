@@ -116,10 +116,10 @@ nav:
            - Validator : validator/index.md 
            - Hermes Deployment :
              - Cluster Launcher :
-               - Overview : hermes/hermesdeployment/cluster-launcher/overview.md
-               - Setup AWS : hermes/hermesdeployment/cluster-launcher/setup-aws.md
-               - System Requirements: hermes/hermesdeployment/cluster-launcher/system-requirements.md
-             - Deploying : hermes/hermesdeployment/deploying.md 
+               - Overview : validator/hermesdeployment/cluster-launcher/overview.md
+               - Setup AWS : validator/hermesdeployment/cluster-launcher/setup-aws.md
+               - System Requirements: validator/hermesdeployment/cluster-launcher/system-requirements.md
+             - Deploying : validator/hermesdeployment/deploying.md 
   - Tools:
        - Tools : tools/index.md
        - Dojima Wallet : 
