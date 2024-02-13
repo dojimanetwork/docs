@@ -70,7 +70,7 @@ hide:
 				</div>
 				<p class="div-leftcard-p">Your resource hub for seamless onboarding and support within our evolving ecosystem.</p>
 				<div class="div-card-button-container">
-					<a class="div-card-button" href="templates/omni_chain_ERC20/">
+					<a class="div-card-button" href="Dojima/templates/omni_chain_ERC20/">
 							Templates <img src="img/rightuparrow.svg" loading="lazy" alt="">
 					</a>
 					<a class="div-card-button" href="Dojima/faucet/">

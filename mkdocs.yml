@@ -94,9 +94,9 @@ nav:
             - Overview: Dojima/quickstart.md  
             - Faucet : Dojima/faucet.md 
             - Templates:
-              - OmnicChain ERC20: templates/omni_chain_ERC20.md
-              - OmniChain NFT : templates/omni_chain_NFT.md
-              - Deposit Manager: templates/deposit_manager.md
+              - OmnicChain ERC20: Dojima/templates/omni_chain_ERC20.md
+              - OmniChain NFT : Dojima/templates/omni_chain_NFT.md
+              - Deposit Manager: Dojima/templates/deposit_manager.md
             - Network : 
               - Network EndPoints: Dojima/Network/endpoints.md
             - Resources :
