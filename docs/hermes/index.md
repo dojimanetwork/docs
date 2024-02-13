@@ -1,6 +1,6 @@
 ---
 hide:
-- toc
+  - toc
 ---
 
 <style>
@@ -20,7 +20,7 @@ hide:
 
 <div class="grid-container">
    <div class="grid-item">
-      <a href="/hermes/what-is-dojima-network/">
+      <a href="hermes/what-is-dojima-network/">
          <div class="product-list-item-header">
             <div class="feature-card-heading">What is Dojima Network?</div>
          </div>
@@ -28,7 +28,7 @@ hide:
       </a>
    </div>
    <div class="grid-item">
-      <a href="/hermes/dojima-chain/">
+      <a href="hermes/dojima-chain/">
          <div class="product-list-item-header">
             <div class="feature-card-heading">Dojima Chain</div>
          </div>
@@ -36,7 +36,7 @@ hide:
       </a>
    </div>
    <div class="grid-item">
-      <a href="/hermes/architecture/hermeschain/">
+      <a href="hermes/architecture/hermeschain/">
          <div class="product-list-item-header">
             <div class="feature-card-heading">Hermes Chain</div>
          </div>
