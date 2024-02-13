@@ -19,7 +19,7 @@ theme:
   logo: img/logo.png
   
   font:
-    text: Roboto
+    text: Red Hat Text
     code: Roboto Mono
   features:
     - search.suggest
@@ -43,81 +43,110 @@ theme:
 
 nav:
   - Home: index.md
-  - Hermes:
-      - About Us: hermes/about-us.md
-      - Architecture:
-          - Overview: hermes/architecture/overview.md
-          - Contract:
-              - Inbound State Sender: hermes/architecture/contracts/inbound_state_sender.md
-              - Outbound State Sender: hermes/architecture/contracts/outbound_state_sender.md
-          - Dojima Chain: hermes/architecture/dojimachain.md
-          - Hermes Chain: hermes/architecture/hermeschain.md
-      - Chain Clients:
-          - Evm:
-              - Client: hermes/chain-clients/evm/client.md
-          - Non Evm:
-              - Arweave: hermes/chain-clients/nonevm/arweave.md
-              - Polkadot: hermes/chain-clients/nonevm/polkadot.md
-              - Solana: 
-                - Solana Client: hermes/chain-clients/nonevm/solana/solana-client.md
-                - Solana State Sender: hermes/chain-clients/nonevm/solana/solana-state-sender.md
-          - Hermes Bridge: hermes/chain-clients/evm/hermes-bridge.md
-          - Ethereum State Sender Contract: hermes/chain-clients/evm/state-sender-contract.md
-      - Concepts:
-          - Code Liberies: hermes/concepts/code.liberies.md
-          - Connecting Doj Chain: hermes/concepts/connecting.doj.chain.md
-          - Querying: hermes/concepts/querying.md
-          - Transaction Memos: hermes/concepts/transaction.memos.md
-      - D11K Guide:
-          - Arweave: hermes/d11kguide/arweave.md
-          - Binance Becon: hermes/d11kguide/binance-becon.md
-          - Bitcoin: hermes/d11kguide/bitcoin.md
-          - Client: hermes/d11kguide/client.md
-          - Cosmos: hermes/d11kguide/cosmos.md
-          - Crypto: hermes/d11kguide/crypto.md
-          - Ethereum: hermes/d11kguide/ethereum.md
-          - Hermes: hermes/d11kguide/hermes.md
-          - Polkadot: hermes/d11kguide/polkadot.md
-          - Solana: hermes/d11kguide/solana.md
-          - Utils: hermes/d11kguide/utils.md
-      - Hermes Deployment :
-          - Cluster Launcher :
-              - Overview : hermes/hermesdeployment/cluster-launcher/overview.md
-              - Setup AWS : hermes/hermesdeployment/cluster-launcher/setup-aws.md
-              - System Requirements: hermes/hermesdeployment/cluster-launcher/system-requirements.md
-          - Deploying : hermes/hermesdeployment/deploying.md  
-      - Resources :
-        - Endpoints: hermes/Resources/endpoints.md 
-        - Faucet: hermes/Resources/faucet.md 
-        - Transaction: hermes/Resources/transaction.md  
-  - Dojima :
-    - Overview: Dojima/index.md  
-    - Faucet : Dojima/faucet.md 
-    - Network : 
-       Network EndPoints: Dojima/Network/endpoints.md
-    - Resources :
-        Basics of Web3 Development: Dojima/Resources/basic.md
-        External Documentation: Dojima/Resources/external.md
-    - Wallet:
-      - Get Started: Dojima/Wallet/getstarted.md
-      - Metamask : 
-        - Add Dojima Network : Dojima/Wallet/MetaMask/config-dojima-on-metamask.md
-        - Config Custom Tokens : Dojima/Wallet/MetaMask/custom-tokens.md
-        - Create & Import Accounts : Dojima/Wallet/MetaMask/multiple-accounts.md
-        - Overview of MetaMask : Dojima/Wallet/MetaMask/overview.md
-        - Hello Metamask : Dojima/Wallet/MetaMask/tutorial-metamask.md  
-    - Transaction : Dojima/transactions.md
-    - Verifying A Smart Contract : Dojima/verifying-smart-contract.md
-  - Wallet : 
-    - Create Account : wallet/index.md 
-    - Wallet Login: wallet/wallet-login.md
-    - Wallet Swap: wallet/wallet-swap.md
-  - Dojiam Fass: 
-      Dojima Fass: dojima-faas/index.md
-      Account: dojima-faas/faasaccount.md
-      Price Stats: dojima-faas/faaspricestats.md
-      User: dojima-faas/faasuser.md
-      Transaction Details: dojima-faas/transactiondetails.md
+  - Core:
+       - Core: hermes/index.md
+       - GetStarted:
+         - What is Dojima Network?:
+           - What is Dojima Network?: hermes/what-is-dojima-network.md
+           - Dojima Chain: hermes/dojima-chain.md
+           - Hermes Chain: hermes/architecture/hermeschain.md
+       - Dojima :
+         - Network : 
+           - Network EndPoints: Dojima/Network/endpoints.md
+         - Contract:
+           - Inbound State Sender: hermes/architecture/contracts/inbound_state_sender.md
+           - Outbound State Sender: hermes/architecture/contracts/outbound_state_sender.md
+       - Hermes :
+          - Chain Clients:
+            - Evm:
+                - Client: hermes/chain-clients/evm/client.md
+            - Non Evm:
+                - Arweave: hermes/chain-clients/nonevm/arweave.md
+                - Polkadot: hermes/chain-clients/nonevm/polkadot.md
+                - Solana: 
+                  - Solana Client: hermes/chain-clients/nonevm/solana/solana-client.md
+                  - Solana State Sender: hermes/chain-clients/nonevm/solana/solana-state-sender.md
+            - Hermes Bridge: hermes/chain-clients/evm/hermes-bridge.md
+            - Ethereum State Sender Contract: hermes/chain-clients/evm/state-sender-contract.md
+          - Resources :
+            - Endpoints: hermes/Resources/endpoints.md 
+            - Faucet: hermes/Resources/faucet.md 
+            - Transaction: hermes/Resources/transaction.md  
+          - Concepts:
+            - Code Liberies: hermes/concepts/code.liberies.md
+            - Connecting Doj Chain: hermes/concepts/connecting.doj.chain.md
+            - Querying: hermes/concepts/querying.md
+            - Transaction Memos: hermes/concepts/transaction.memos.md
+          - D11K Guide:
+            - Arweave: hermes/d11kguide/arweave.md
+            - Binance Becon: hermes/d11kguide/binance-becon.md
+            - Bitcoin: hermes/d11kguide/bitcoin.md
+            - Client: hermes/d11kguide/client.md
+            - Cosmos: hermes/d11kguide/cosmos.md
+            - Crypto: hermes/d11kguide/crypto.md
+            - Ethereum: hermes/d11kguide/ethereum.md
+            - Hermes: hermes/d11kguide/hermes.md
+            - Polkadot: hermes/d11kguide/polkadot.md
+            - Solana: hermes/d11kguide/solana.md
+            - Utils: hermes/d11kguide/utils.md
+  - Developers :
+            - Developer: Dojima/index.md
+            - Overview: Dojima/quickstart.md  
+            - Faucet : Dojima/faucet.md 
+            - Templates:
+              - OmnicChain ERC20: templates/omni_chain_ERC20.md
+              - OmniChain NFT : templates/omni_chain_NFT.md
+              - Deposit Manager: templates/deposit_manager.md
+            - Network : 
+              - Network EndPoints: Dojima/Network/endpoints.md
+            - Resources :
+                Basics of Web3 Development: Dojima/Resources/basic.md
+                External Documentation: Dojima/Resources/external.md
+            - Wallet:
+              - Get Started: Dojima/Wallet/getstarted.md
+              - Metamask : 
+                - Add Dojima Network : Dojima/Wallet/MetaMask/config-dojima-on-metamask.md
+                - Config Custom Tokens : Dojima/Wallet/MetaMask/custom-tokens.md
+                - Create & Import Accounts : Dojima/Wallet/MetaMask/multiple-accounts.md
+                - Overview of MetaMask : Dojima/Wallet/MetaMask/overview.md
+                - Hello Metamask : Dojima/Wallet/MetaMask/tutorial-metamask.md  
+            - Transaction : Dojima/transactions.md
+            - Verifying A Smart Contract : Dojima/verifying-smart-contract.md
+  - Validator :
+           - Validator : validator/index.md 
+           - Hermes Deployment :
+             - Cluster Launcher :
+               - Overview : hermes/hermesdeployment/cluster-launcher/overview.md
+               - Setup AWS : hermes/hermesdeployment/cluster-launcher/setup-aws.md
+               - System Requirements: hermes/hermesdeployment/cluster-launcher/system-requirements.md
+             - Deploying : hermes/hermesdeployment/deploying.md 
+  - Tools:
+       - Tools : tools/index.md
+       - Dojima Wallet : 
+         - Create Account : wallet/index.md 
+         - Wallet Login : wallet/wallet-login.md
+         - Wallet Swap : wallet/wallet-swap.md
+       - Dojima FASS :
+         - Dojima Fass: dojima-faas/index.md
+         - Account: dojima-faas/faasaccount.md
+         - Price Stats: dojima-faas/faaspricestats.md
+         - User: dojima-faas/faasuser.md
+         - Transaction Details: dojima-faas/transactiondetails.md
+       - Developer Dashboard: 
+         - Developer Dashboard: developer-dashboard/index.md
+         - Login: developer-dashboard/login.md
+         - Dashboard: 
+           - Create: 
+             - New Project: developer-dashboard/dashboard/new_project.md
+             - Templates: developer-dashboard/dashboard/templates.md
+         - Projects: developer-dashboard/projects.md
+         - XChain Connections: developer-dashboard/xchain_connections.md
+         - Contract: developer-dashboard/contract.md
+  # - Templates:
+  #   - OmniChain ERC20: templates/omni_chain_ERC20.md
+  #   - OmniChain NFT : templates/omni_chain_NFT.md
+  #   - Deposit Manager: templates/deposit_manager.md
+
 extra:
   generator: false
   analytics:
@@ -167,8 +196,8 @@ markdown_extensions:
       permalink_title: Link to this section
       toc_depth: 4
   - codehilite
-  # - markdown_include.include:
-  #     base_path: docs
+  - markdown_include.include:
+      base_path: docs
   - admonition
   - footnotes
   - def_list
@@ -195,6 +224,7 @@ markdown_extensions:
 
 plugins:
   - search
+  # - open-in-new-tab
   # - git-revision-date-localized:
   #     fallback_to_build_date: true
   #     strict: false

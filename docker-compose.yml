@@ -2,10 +2,10 @@ version: "3.6"
 
 services:
   developer-docs:
-      image: "polygon-docs"
+      image: "dojima-docs"
       ports:
-      - "0.0.0.0:8000:8000"
-      container_name: "serve-polygon-docs"
+      - "0.0.0.0:83:83"
+      container_name: "serve-dojima-docs"
       working_dir: /workspace/
       volumes:
         - type: bind

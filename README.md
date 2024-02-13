@@ -31,7 +31,7 @@ You only need to do the above once per shell session. Then, pick one of the foll
 If you prefer Docker, you can build and run the site using the following commands:
 
 ```sh
-docker build -t polygon-docs .
+docker build -t dojima-docs .
 docker compose up
 ```
 
