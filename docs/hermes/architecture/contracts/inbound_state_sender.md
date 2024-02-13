@@ -20,10 +20,7 @@ To utilize the State Sender Contract, follow these straightforward steps:
 
 * Retrieve the Inbound State Sender Contract address from the Dojima Chain Explorer.
 
-> 
-!!! warning 
-
-    **IMPORTANT:** The Inbound State Sender Contract address may vary for different chains. Ensure that you select the appropriate chain i.e. (Ethereum, Avalanche) and appropriate network i.e. (mainnet or testnet).
+**⚠️ Warning:** The Inbound State Sender Contract address may vary for different chains. Ensure that you select the appropriate chain i.e. (Ethereum, Avalanche) and the appropriate network i.e. (mainnet or testnet).
 
 ### Step 3: Register the Destination Contract
 Before you can send state transaction to the Dojima Chain, you need to register the destination contract. This is done using the `register` function in the State Sender Contract. This function takes two parameters:

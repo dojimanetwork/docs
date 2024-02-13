@@ -1,7 +1,7 @@
 ---
 hide:
-  - navigation
-  - toc
+    - navigation
+    - toc
 ---
 
 <style>
@@ -28,14 +28,14 @@ hide:
 						<p class="hero-subtext">Learn the methods to build and deploy dApps, launch ZK rollups and validiums as Layer 2s on Ethereum, set up nodes, and stay informed about the latest advancements in zero-knowledge research.
 						</p>
 						</div>
-						<div class="button-container">
-						<button class="getstarted-button">
-						   Get Started
-						</button>
-						<div class="icon-background">
-						  <img src="img/rounded-right-arrow.svg" loading="lazy" alt="">
-                         </div>
-						</div>
+						<a class="button-container" href="/hermes/">
+							<button class="getstarted-button">
+							Get Started
+							</button>
+							<div class="icon-background">
+							<img src="img/rounded-right-arrow.svg" loading="lazy" alt="">
+							</div>
+						</a>
 						<!-- <p class="hero-subtext"> Learn how to build and deploy dApps, launch ZK rollups and validiums as Layer 2s on Ethereum, spin up nodes, and find out about the latest in zero-knowledge research.<p> -->
 					</div>
 					<div class="hero-right"><img src="img/rightimage.svg" loading="lazy" alt="" class="hero-image"></div>
@@ -49,15 +49,15 @@ hide:
 			<div class="div-card">
 				<div class="div-card-header">
 				<img src="img/hermes.svg" loading="lazy" alt="">
-					<h3>Omnichain Layer</h3>
+					<h3>Core</h3>
 				</div>
-				<p class="div-leftcard-p">Connect a smart contract to any API and run custom Web3 computation.</p>
+				<p class="div-leftcard-p">Unveiling Dojima Network's essence, highlighting the innovative infrastructure of Hermes and Dojima chains.</p>
 				<div class="div-card-button-container">
-					<a class="div-card-button">
-							Try out Testnet <img src="img/rightuparrow.svg" loading="lazy" alt="">
+					<a class="div-card-button" href="/hermes/what-is-dojima-network/">
+							What is Dojima Network? <img src="img/rightuparrow.svg" loading="lazy" alt="">
 					</a>
-					<a class="div-card-button">
-						Stagenet is coming <img src="img/rightuparrow.svg" loading="lazy" alt="">
+					<a class="div-card-button" href="/hermes/architecture/hermeschain/">
+						Hermes Chain <img src="img/rightuparrow.svg" loading="lazy" alt="">
 					</a>
 			   </div>
     	   </div>
@@ -66,15 +66,15 @@ hide:
 			<div class="div-card">
 				<div class="div-card-header">
 				<img src="img/hermes.svg" loading="lazy" alt="">
-					<h3>Developer DashBoard</h3>
+					<h3>Developers</h3>
 				</div>
-				<p class="div-leftcard-p">Navigate and Optimize Your Journey with Dojima Network's Developer Dashboard.</p>
+				<p class="div-leftcard-p">Your resource hub for seamless onboarding and support within our evolving ecosystem.</p>
 				<div class="div-card-button-container">
-					<a class="div-card-button">
-							Build <img src="img/rightuparrow.svg" loading="lazy" alt="">
+					<a class="div-card-button" href="/templates/omni_chain_ERC20/">
+							Templates <img src="img/rightuparrow.svg" loading="lazy" alt="">
 					</a>
-					<a class="div-card-button">
-						Explorer<img src="img/rightuparrow.svg" loading="lazy" alt="">
+					<a class="div-card-button" href="/Dojima/faucet/">
+						Faucet<img src="img/rightuparrow.svg" loading="lazy" alt="">
 					</a>
 			   </div>
     	   </div>
@@ -86,44 +86,45 @@ hide:
 				<img src="img/hermes.svg" loading="lazy" alt="">
 					<h3>Tools</h3>
 				</div>
-				<p class="first-p">Connect a smart contract to any API and run custom Web3 computation.</p>
-				<a class="middle-p">
+				<p class="first-p">Explore our versatile tools section featuring a cross-chain wallet, innovative FAAS solution, and developer dashboard for seamless integration.</p>
+				<a class="middle-p" href="/wallet/">
 				<div class="right-grid-a">
-				 <p class="right-p">Cross-chain Wallet</p>
+				 <p class="right-p  ">Dojima Wallet</p>
 			<img src="img/rightuparrow.svg" loading="lazy" alt="">
 				  </svg>
-				  <div class="live">Live</div>
+				  <!-- <div class="live">Live</div> -->
 				</div>
-				  <p style="margin-top:8px">Connect a smart contract to any API and run custom Web3 computation.</p>
+				  <p style="margin-top:8px">Dojima wallet lets you organise major layer 1 tokens in one place.</p>
 				</a>
-				<a class="middle-p">
+				<a class="middle-p" href="/dojima-faas/">
 				<div class="right-grid-a">
-				 <p class="right-p">Cross Chain Block Explorer</p>
+				 <p class="right-p">Dojima Fass</p>
 				<img src="img/rightuparrow.svg" loading="lazy" alt="">
-				  <div class="live">Live</div>
+				  <!-- <div class="live">Live</div> -->
 				</div>
-				  <p style="margin-top:8px">Dive into the seamless connectivity of Dojima Network's Cross Chain Block Explorer.</p>
+				  <p style="margin-top:8px">Dojima FAAS offers blockchain services like transaction signing and history viewing.</p>
 				</a>
-				<a class="last-p">
-				<div class="right-grid-a">
-				 <p class="right-p">Cross Chain Block Explorer</p>
+				<a class="last-p" href="/developer-dashboard/login/">
+				<div class="right-grid-a" >
+				 <p class="right-p ">Developer Dashboard</p>
 				 <img src="img/rightuparrow.svg" loading="lazy" alt="">
-				  <div class="live">Live</div>
+				  <!-- <div class="live">Live</div> -->
 				</div>
-				  <p style="margin-top:8px">Dive into the seamless connectivity of Dojima Network's Cross Chain Block Explorer.</p>
+				  <p style="margin-top:8px">Empower your development journey with our intuitive developer dashboard, offering insights, tools, and resources for efficient blockchain integration and application management.</p>
 				</a>		
 	    </div>
 	   <div class="right-card-container">
 	<div class="div-card-header">
 				<img src="img/hermes.svg" loading="lazy" alt="">
-					<h3>Run Validator Node</h3>
+					<h3>Validator</h3>
 				</div>
-				<p>Navigate and Optimize Your Journey with Dojima Network's Developer Dashboard.</p>
+				<p>Unlock the path to becoming a valued validator with our comprehensive documentation, empowering you to safeguard the integrity of our blockchain network.</p>
+				
 	 </div>
 	</div>
     </div>
 
-    <!-- <section class="section">
+<!-- <section class="section">
     	<div class="container-global">
     		<div class="section-wrapper">
     			<div class="flexbox-2-col">
@@ -346,6 +347,6 @@ hide:
     			</div>
     		</div>
     	</div>
-    </section> -->
+    </section>  -->
 
 </div>
