@@ -24,8 +24,8 @@ hide:
 					<div class="hero-left">
 						<h1 class="hero-heading">The Layer of Dojima Knowledge</h1>
 						<div class="hero-div">
-						<p class="hero-subtext"> Access our specialised technical documentation and knowledge resources, offering in-depth information on Dojima.</p>
-						<p class="hero-subtext">Learn the methods to build and deploy dApps, launch ZK rollups and validiums as Layer 2s on Ethereum, set up nodes, and stay informed about the latest advancements in zero-knowledge research.
+						<p class="hero-subtext"> Welcome to the Dojima Protocols and Building Technologies, technical documentation and knowledge base.</p>
+						<p class="hero-subtext">Discover our expansive documentation hub, offering technical guides, knowledge resources, and setup instructions for harnessing our templates, developer dashboard, faucet, omnichain wallet, and other indispensable tools.
 						</p>
 						</div>
 						<a class="button-container" href="core/">
