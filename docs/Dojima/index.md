@@ -1,6 +1,6 @@
 ---
 hide:
-    - toc
+  - toc
 ---
 
 <style>
@@ -19,7 +19,7 @@ hide:
 </div>
 <div class="grid-container">
    <div class="grid-item">
-      <a href="/templates/omni_chain_ERC20/">
+      <a href="templates/omni_chain_ERC20/">
          <div class="product-list-item-header">
             <div class="feature-card-heading">Templates</div>
          </div>
@@ -27,7 +27,7 @@ hide:
       </a>
    </div>
    <div class="grid-item">
-      <a href="/Dojima/faucet/">
+      <a href="faucet/">
          <div class="product-list-item-header">
             <div class="feature-card-heading">Faucet</div>
          </div>

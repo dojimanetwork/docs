@@ -1,6 +1,6 @@
 ---
 hide:
-- toc
+  - toc
 ---
 
 <style>
@@ -15,12 +15,11 @@ hide:
       <h1 class="hero-heading">Validator</h1>
       <p class="hero-subtext">Unlock the path to becoming a valued validator with our comprehensive documentation, empowering you to safeguard the integrity of our blockchain network.</p>
    </div>
-   </br>
 </div>
 
 <div class="grid-container">
    <div class="grid-item">
-      <a href="/hermes/hermesdeployment/cluster-launcher/setup-aws/">
+      <a href="hermes/hermesdeployment/cluster-launcher/setup-aws/">
          <div class="product-list-item-header">
             <div class="feature-card-heading">Setup AWS</div>
          </div>
