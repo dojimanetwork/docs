@@ -78,8 +78,8 @@ h5 {
 }
 
 .getstarted-button {
-  border: 1px solid #FFF;
-  border-radius:16px;
+  border: 1px solid #fff;
+  border-radius: 16px;
   background-color: #7612d4;
   color: #fff;
   padding: 12px;
@@ -167,6 +167,7 @@ div.main .section {
   display: flex;
   position: relative;
   bottom: 50px;
+  padding-bottom: 120px;
 }
 
 .hero-content-flex.product-hero-flex {
@@ -175,14 +176,15 @@ div.main .section {
 }
 
 .hero-left {
-  max-width: 580px;
+  /* max-width: 580px; */
+  width: 50%;
   position: relative;
   z-index: 3;
 }
 
 .hero-right {
   position: absolute;
-  top: 60px;
+  bottom: 0px;
   right: 0;
   width: 100%;
   /* flex: 1 auto; */
@@ -700,6 +702,7 @@ div.main .section {
   .hero-content-flex {
     grid-row-gap: 32px;
     flex-direction: column;
+    padding-bottom: 0;
   }
 
   .hero-left {
