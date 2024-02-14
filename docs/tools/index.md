@@ -35,13 +35,5 @@ hide:
          <p class="feature-paragraph">You can get blockchain functionality as a service from Dojima FAAS, like signing transactions, viewing transaction histories and more.</p>
       </a>
    </div>
-   <div class="grid-item">
-      <a href="developer-dashboard">
-         <div class="product-list-item-header">
-            <div class="feature-card-heading">Developer Dashboard</div>
-         </div>
-         <p class="feature-paragraph">Empower your development journey with our intuitive developer dashboard, offering insights, tools, and resources for efficient blockchain integration and application management.</p>
-      </a>
-   </div>
 </div>
 </div>
