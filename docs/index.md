@@ -44,7 +44,7 @@ hide:
 	 <div class="card-container">
 			<div class="div-card">
 				<div class="div-card-header">
-				<img src="img/hermes.svg" loading="lazy" alt="">
+				<img src="img/Core-Icon.png" loading="lazy" alt="">
 					<h3>Core</h3>
 				</div>
 				<p class="div-leftcard-p">Unveiling Dojima Network's essence, highlighting the innovative infrastructure of Hermes and Dojima chains.</p>
@@ -61,7 +61,7 @@ hide:
 		 <div class="card-container">
 			<div class="div-card">
 				<div class="div-card-header">
-				<img src="img/hermes.svg" loading="lazy" alt="">
+				<img src="img/Developer-Icon.png" loading="lazy" alt="">
 					<h3>Developers</h3>
 				</div>
 				<p class="div-leftcard-p">Your resource hub for seamless onboarding and support within our evolving ecosystem.</p>
@@ -79,7 +79,7 @@ hide:
 	<div class="div-left-grid">
 	   <div class="right-card-container">
 	           <div class="div-card-header">
-				<img src="img/hermes.svg" loading="lazy" alt="">
+				<img src="img/Tools-Icon.png" loading="lazy" alt="">
 					<h3>Tools</h3>
 				</div>
 				<p class="first-p">Explore our versatile tools section featuring a cross-chain wallet, innovative FAAS solution, and developer dashboard for seamless integration.</p>
@@ -111,7 +111,7 @@ hide:
 	    </div>
 	   <div class="right-card-container">
 	<div class="div-card-header">
-				<img src="img/hermes.svg" loading="lazy" alt="">
+				<img src="img/Validator-Icon.png" loading="lazy" alt="">
 					<h3>Validator</h3>
 				</div>
 				<p>Unlock the path to becoming a valued validator with our comprehensive documentation, empowering you to safeguard the integrity of our blockchain network.</p>

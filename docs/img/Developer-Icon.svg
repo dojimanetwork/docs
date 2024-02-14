@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25">
+  <g>
+    <path d="M8.93,12.12l-2.79,1.93c-.08.07-.08.2.01.26l2.86,1.76" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path d="M13.23,12.12l2.79,1.93c.08.07.08.2-.01.26l-2.86,1.76" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"/>
+    <line x1="11.83" y1="10.76" x2="10.34" y2="17.63" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10"/>
+  </g>
+  <g>
+    <g>
+      <path d="M16.89,6.69H5.28c-.75,0-1.36.61-1.36,1.36v11.61c0,.75.61,1.36,1.36,1.36h.9v.56c0,.51.41.92.92.92h8.05c.51,0,.92-.41.92-.92v-.56h.83c.75,0,1.36-.61,1.36-1.36v-11.61c0-.75-.61-1.36-1.36-1.36Z" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <path d="M18.25,9.89c2.18,0,3.94,1.76,3.94,3.94s-1.76,3.94-3.94,3.94" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    </g>
+    <path d="M8.93,2.01c0,.37-.37.37-.37.74s.37.37.37.75-.37.37-.37.75.37.38.37.75-.37.38-.37.75" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width=".5"/>
+    <path d="M11.65,2.01c0,.37-.37.37-.37.74s.37.37.37.75-.37.37-.37.75.37.38.37.75-.37.38-.37.75" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width=".5"/>
+    <path d="M14.38,2.01c0,.37-.37.37-.37.74s.37.37.37.75-.37.37-.37.75.37.38.37.75-.37.38-.37.75" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width=".5"/>
+  </g>
+</svg>
