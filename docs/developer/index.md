@@ -10,7 +10,7 @@ hide:
 </style>
 
 <div class="section-wrapper product-section-head">
-   <div class="hero-image"><img src="../img/developer-1.png" loading="lazy" class="hero-image" style="width: 40%; float: right;"></div>
+   <!-- <div class="hero-image"><img src="../img/developer-1.png" loading="lazy" class="hero-image" style="width: 40%; float: right;"></div> -->
    <div class="hero-left">
       <h1 class="hero-heading">Developers</h1>
       <p class="hero-subtext">Your resource hub for seamless onboarding and support within our evolving ecosystem.</p>
@@ -32,6 +32,14 @@ hide:
             <div class="feature-card-heading">Faucet</div>
          </div>
          <p class="feature-paragraph">The Faucet is a web-based service that can send you some test tokens so that you can explore and experiment with testnet without having to pay for anything.</p>
+      </a>
+   </div>
+   <div class="grid-item">
+      <a href="developer-dashboard/login/">
+         <div class="product-list-item-header">
+            <div class="feature-card-heading">Developer Dashboard</div>
+         </div>
+         <p class="feature-paragraph">Empower your development journey with our intuitive developer dashboard, offering insights, tools, and resources for efficient blockchain integration and application management.</p>
       </a>
    </div>
 </div>

@@ -10,7 +10,7 @@ hide:
 </style>
 
 <div class="section-wrapper product-section-head">
-   <div class="hero-image"><img src="../img/tools-1.png" loading="lazy" class="hero-image" style="width: 40%; float: right;"></div>
+   <!-- <div class="hero-image"><img src="../img/tools-1.png" loading="lazy" class="hero-image" style="width: 40%; float: right;"></div> -->
    <div class="hero-left">
       <h1 class="hero-heading">Tools</h1>
       <p class="hero-subtext">Explore our versatile tools section featuring a cross-chain wallet, innovative FAAS solution, and developer dashboard for seamless integration.</p>

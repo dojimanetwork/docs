@@ -91,8 +91,17 @@ nav:
             - Utils: core/d11kguide/utils.md
   - Developers :
             - Developer: developer/index.md
-            - Overview: developer/quickstart.md  
             - Faucet : developer/faucet.md 
+            - Developer Dashboard: 
+            #  - Developer Dashboard: tools/developer-dashboard/index.md
+              - Login: developer/developer-dashboard/login.md
+              - Dashboard: 
+                - Create: 
+                  - New Project: developer/developer-dashboard/dashboard/new_project.md
+                  - Templates: developer/developer-dashboard/dashboard/templates.md
+              - Projects: developer/developer-dashboard/projects.md
+              - XChain Connections: developer/developer-dashboard/xchain_connections.md
+              - Contract: developer/developer-dashboard/contract.md
             - Templates:
               - OmnicChain ERC20: developer/templates/omni_chain_ERC20.md
               - OmniChain NFT : developer/templates/omni_chain_NFT.md
@@ -132,16 +141,7 @@ nav:
          - Price Stats: tools/dojima-faas/faaspricestats.md
          - User: tools/dojima-faas/faasuser.md
          - Transaction Details: tools/dojima-faas/transactiondetails.md
-       - Developer Dashboard: 
-        #  - Developer Dashboard: tools/developer-dashboard/index.md
-         - Login: tools/developer-dashboard/login.md
-         - Dashboard: 
-           - Create: 
-             - New Project: tools/developer-dashboard/dashboard/new_project.md
-             - Templates: tools/developer-dashboard/dashboard/templates.md
-         - Projects: tools/developer-dashboard/projects.md
-         - XChain Connections: tools/developer-dashboard/xchain_connections.md
-         - Contract: tools/developer-dashboard/contract.md
+      
   # - Templates:
   #   - OmniChain ERC20: templates/omni_chain_ERC20.md
   #   - OmniChain NFT : templates/omni_chain_NFT.md
