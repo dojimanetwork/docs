@@ -72,6 +72,10 @@ hide:
 					<a class="div-card-button" href="developer/faucet/">
 						Faucet<img src="img/rightuparrow.svg" loading="lazy" alt="">
 					</a>
+					<div class="right-grid-a" >
+				 <a class="left-p ">Developer Dashboard</a>
+				  <div class="live">Coming Soon</div>
+				</div>
 			   </div>
     	   </div>
     	</div>
@@ -100,14 +104,14 @@ hide:
 				</div>
 				  <p style="margin-top:8px">Dojima FAAS offers blockchain services like transaction signing and history viewing.</p>
 				</a>
-				<a class="last-p" href="tools/developer-dashboard/login/">
-				<div class="right-grid-a" >
+				<!-- <a class="last-p" href="tools/developer-dashboard/login/"> -->
+				<!-- <div class="right-grid-a" >
 				 <p class="right-p ">Developer Dashboard</p>
 				 <img src="img/rightuparrow.svg" loading="lazy" alt="">
-				  <!-- <div class="live">Live</div> -->
-				</div>
-				  <p style="margin-top:8px">Empower your development journey with our intuitive developer dashboard, offering insights, tools, and resources for efficient blockchain integration and application management.</p>
-				</a>		
+				  <div class="live">Coming Soon</div>
+				</div> -->
+				  <!-- <p style="margin-top:8px">Empower your development journey with our intuitive developer dashboard, offering insights, tools, and resources for efficient blockchain integration and application management.</p>
+				</a>		 -->
 	    </div>
 	   <div class="right-card-container">
 	<div class="div-card-header">

@@ -399,6 +399,14 @@ div.main .section {
   align-items: center;
   column-gap: 12px;
 }
+
+.left-p{
+  font-size: 18px;
+  margin-top: 0;
+  font-weight: 650;
+  line-height: 26px;
+  color: #4051b5; 
+}
 .right-grid-a .right-p {
   font-size: 18px;
   margin-top: 0;

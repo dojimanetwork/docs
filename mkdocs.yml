@@ -92,16 +92,16 @@ nav:
   - Developers :
             - Developer: developer/index.md
             - Faucet : developer/faucet.md 
-            - Developer Dashboard: 
-            #  - Developer Dashboard: tools/developer-dashboard/index.md
-              - Login: developer/developer-dashboard/login.md
-              - Dashboard: 
-                - Create: 
-                  - New Project: developer/developer-dashboard/dashboard/new_project.md
-                  - Templates: developer/developer-dashboard/dashboard/templates.md
-              - Projects: developer/developer-dashboard/projects.md
-              - XChain Connections: developer/developer-dashboard/xchain_connections.md
-              - Contract: developer/developer-dashboard/contract.md
+            # - Developer Dashboard: 
+            # #  - Developer Dashboard: tools/developer-dashboard/index.md
+            #   - Login: developer/developer-dashboard/login.md
+            #   - Dashboard: 
+            #     - Create: 
+            #       - New Project: developer/developer-dashboard/dashboard/new_project.md
+            #       - Templates: developer/developer-dashboard/dashboard/templates.md
+            #   - Projects: developer/developer-dashboard/projects.md
+            #   - XChain Connections: developer/developer-dashboard/xchain_connections.md
+            #   - Contract: developer/developer-dashboard/contract.md
             - Templates:
               - OmnicChain ERC20: developer/templates/omni_chain_ERC20.md
               - OmniChain NFT : developer/templates/omni_chain_NFT.md
