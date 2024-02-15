@@ -329,12 +329,12 @@ div.main .section {
   border-bottom: 1px solid #e0e0e0;
 }
 .right-grid-a .live {
-  background-color: #88e605;
+  background-color: #8D57DE;
   padding: 3px 8px;
   border-radius: 6px;
   font-size: 12px;
   font-weight: 400;
-  color: #000;
+  color: #FFF;
 }
 .last-p {
   display: block;
