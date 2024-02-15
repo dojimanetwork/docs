@@ -39,20 +39,27 @@ If you are facing any issue, **Add the Network Manually(steps given below)**
 
 ### Add the Dojima network manually
 
+
+
 === "Dojima-Testnet"
-    To add Dojima’s Testnet, click on the Network selection dropdown and then click on Custom RPC.
-
-    ![Image title](https://dojima-images.s3.ap-south-1.amazonaws.com/dojima-docs/img/metamask/select-network.png){ aling= "center" }
-
-
-    It will open up a form with 2 tabs on the top, Settings and Info. In the Settings tab you can add `Dojima Testnet` in the Network Name field, URL `https://api-test.d11k.dojima.network:8545/` in the New RPC URL field, `1001` in Chain ID field, `DOJ` in Currency Symbol field and `https://doj-bex-test.dojima.network/` in Block Explorer URL field.
-
-
-    ![Image title](https://dojima-images.s3.ap-south-1.amazonaws.com/dojima-docs/img/metamask/testnet-add-network.png){ aling= "center" }
-
-
-    Once you’ve added the information click on Save. You will be directly switched to Dojima’s Testnet now in the network dropdown list. You can now close the dialog.
-
-
-
-**You have successfully added Dojima Network to your Metamask!**
+    1. To add the Dojima Testnet to your Metamask extension for testing and development purposes, begin by launching the extension.
+    ![Image title](https://storage.googleapis.com/dojima_docs/add-network/1.png)
+    2. Click on the three dots icon to access additional options, then select "Settings" to proceed with configuring the Metamask extension.
+    ![Image title](https://storage.googleapis.com/dojima_docs/add-network/2.png)
+    3. Navigate to the "Networks" section and select "Add Network" to begin configuring a new network for integration with the Metamask extension.
+    ![Image title](https://storage.googleapis.com/dojima_docs/add-network/3.png) 
+    ![Image title](https://storage.googleapis.com/dojima_docs/add-network/4.png)
+    4. Choose the "Add Network Manually" option to manually input the details of the Dojima Testnet network into the Metamask extension.
+    ![Image title](https://storage.googleapis.com/dojima_docs/add-network/5.png)
+    5. Enter `Dojima Chain` as the network name in the corresponding field to accurately identify the network within the Metamask extension settings.
+    ![Image title](https://storage.googleapis.com/dojima_docs/add-network/6.png)
+    6. Input the new RPC URL `https://api-dev.d11k.dojima.network/` into the designated field to establish the connection with the Dojima Chain network.
+    ![Image title](https://storage.googleapis.com/dojima_docs/add-network/7.png)
+    7. Set the Chain ID to `1001` in the provided field to uniquely identify the Dojima Chain network within the Metamask extension.
+    ![Image title](https://storage.googleapis.com/dojima_docs/add-network/8.png)
+    8. Specify the Currency Symbol as `DOJ` to represent the native currency of the Dojima Chain network within the Metamask extension settings
+    ![Image title](https://storage.googleapis.com/dojima_docs/add-network/9.png)
+    ![Image title](https://storage.googleapis.com/dojima_docs/add-network/10.png)
+    9. Congratulations! You have successfully added the Dojima Testnet to your Metamask extension. You can now begin testing and developing on the Dojima Chain network with ease.
+    ![Image title](https://storage.googleapis.com/dojima_docs/add-network/11.png)
+    ![Image title](https://storage.googleapis.com/dojima_docs/add-network/12.png)

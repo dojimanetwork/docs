@@ -24,7 +24,7 @@ This guide will introduce you to the Dojima ecosystem. You'll find links to valu
 
 ## Building on Dojima
 
-If you are an Ethereum developer, you are already a Dojima developer. Simply switch to the [Dojima RPC](https://api-test.d11k.dojima.network:8545/) and get started. All the tools you are familiar with on the Ethereum blockchain are supported on Dojima by default, such as Truffle, Remix, and Web3js.
+If you are an Ethereum developer, you are already a Dojima developer. Simply switch to the [Dojima RPC](https://api-dev.d11k.dojima.network/) and get started. All the tools you are familiar with on the Ethereum blockchain are supported on Dojima by default, such as Truffle, Remix, and Web3js.
 
 You can deploy decentralized applications to either Dojima Testnet or the Mainnet. The Dojima Testnet connects with the Ethereum Goërli Testnet, which acts as its ParentChain. You can find all the network-related details in the **[network documentation]**.
 

@@ -17,7 +17,7 @@ The other fields will auto-populate. Click on Save and then click on Add Tokens.
 
 **Configuring `DOJ TST` tokens to Metamask**
 
-You will also need to configure the `TST` tokens to Dojima’s Testnet for visualization if you are following the introductory D11.js tutorial. **Switch the network on Metamask to point to the Dojima testnet - https://api-test.d11k.dojima.network:8545/ **. On Metamask, this will be shown as `Private Network` or whatever you have named it when adding the custom rpc 
+You will also need to configure the `TST` tokens to Dojima’s Testnet for visualization if you are following the introductory D11.js tutorial. **Switch the network on Metamask to point to the Dojima testnet - https://api-dev.d11k.dojima.network/ **. On Metamask, this will be shown as `Private Network` or whatever you have named it when adding the custom rpc 
 
 The corresponding `TST` token address on Dojima testnet is `0x2d7882beDcbfDDce29Ba99965dd3cdF7fcB10A1e`. Note that this token contract address is different from that of Goerli - since this is the `TST` token on the Dojima Network. A detailed, screen-by-screen guide to add custom tokens is shown here:
 
@@ -50,7 +50,7 @@ The token symbol is `ERC721-Testv4` and token of precision is `18`. Click on Add
 
 **Adding the `ERC721-TESTV4` token (ERC721) to your Metamask account on the Dojima Testnet Network**
 
-**Switch the network on Metamask to point to the Dojima testnet - https://api-test.d11k.dojima.network:8545/ **. On Metamask, this will be shown as `Private Network` or whatever you have named it when adding the custom rpc .
+**Switch the network on Metamask to point to the Dojima testnet - https://api-dev.d11k.dojima.network/ **. On Metamask, this will be shown as `Private Network` or whatever you have named it when adding the custom rpc .
 
 To display `ERC721-TESTV4` tokens on your account on the Dojima Testnet Network, you can click on the Add Tokens option in Metamask. It will then navigate you to a screen. You then click on Custom Token tab and copy-paste the address below in the Token Address field.
 
