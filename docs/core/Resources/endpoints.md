@@ -3,7 +3,32 @@ sidebar_label: Endpoints
 title: Network Endpoints
 ---
 
+---
+title: Network Endpoints
+---
+
 ## Testnet
+
+| **Field**                         	 | **Testnet**               	                |
+|-------------------------------------|--------------------------------------------|
+| **Network Name**                  	 | Dojima chain    	                          |
+| **Http Api URL**                    | https://api-dev.d11k.dojima.network/ |
+| **New RPC URL**                   	 | https://rpc-dev.d11k.dojima.network/ |
+| **Chain ID**                      	 | 1001                      	                |
+| **Currency symbol**    	            | DOJ                       	                |
+| **Block Explorer URL** 	            | https://explorer-dev.dojima.network/       |
+
+## Stagenet
+
+| **Field**                         	 | **Stagenet**               	                |
+|-------------------------------------|--------------------------------------------|
+| **Network Name**                  	 | Dojima chain    	                          |
+| **Http Api URL**                    | https://api.d11k.dojima.network:/ |
+| **New RPC URL**                   	 | https://rpc.d11k.dojima.network:/ |
+| **Chain ID**                      	 | 1401                      	                |
+| **Currency symbol**    	            | DOJ                       	                |
+| **Block Explorer URL** 	            | https://explorer-dev.dojima.network/       |
+<!-- ## Testnet
 
 
 | **Field**                         	 | **Testnet**               	            |
@@ -21,4 +46,4 @@ title: Network Endpoints
 | **Polkadot**                   	    | API : https://dot-test.h4s.dojima.network:9933/<br/>Websocket: [wss://dotws-test.h4s.dojima.network:9944](wss://dotws-test.h4s.dojima.network:9944) |            
 | **Solana**                      	   | API : https://sol-test.dojima.h4s.network:8899/<br/>Websocket:: https://solws-test.h4s.dojima.network:8900/                                         |
 | **Ethereum**                        | API : https://eth-test.h4s.dojima.network/                                                                                                          |                	
-| **Binance**                         | https://bnb-test.h4s.dojima.network/                                                                                                                |
+| **Binance**                         | https://bnb-test.h4s.dojima.network/                                                                                                                | -->

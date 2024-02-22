@@ -52,7 +52,7 @@ nav:
            - Hermes Chain: core/architecture/hermeschain.md
        - Dojima :
          - Network : 
-           - Network EndPoints: developer/Network/endpoints.md
+           - Network EndPoints: core/Resources/endpoints.md
          - Contract:
            - Inbound State Sender: core/architecture/contracts/inbound_state_sender.md
            - Outbound State Sender: core/architecture/contracts/outbound_state_sender.md
@@ -69,8 +69,8 @@ nav:
             - Hermes Bridge: core/chain-clients/evm/hermes-bridge.md
             - Ethereum State Sender Contract: core/chain-clients/evm/state-sender-contract.md
           - Resources :
-            - Endpoints: core/Resources/endpoints.md 
-            - Faucet: developer/faucet/ 
+            - Network Endpoints: developer/Network/endpoints.md
+            - Faucet: core/Resources/faucet.md 
             - Transaction: core/Resources/transaction.md  
           - Concepts:
             - Code Liberies: core/concepts/code.liberies.md
@@ -106,8 +106,8 @@ nav:
               - OmnicChain ERC20: developer/templates/omni_chain_ERC20.md
               - OmniChain NFT : developer/templates/omni_chain_NFT.md
               - Deposit Manager: developer/templates/deposit_manager.md
-            - Network : 
-              - Network EndPoints: developer/Network/endpoints.md
+            # - Network : 
+            #   - Network EndPoints: developer/Network/endpoints.md
             - Resources :
                 Basics of Web3 Development: developer/Resources/basic.md
                 External Documentation: developer/Resources/external.md
