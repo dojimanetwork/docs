@@ -9,7 +9,7 @@ How to Query HERMESChain
 
 Vaults are fetched from the `/inbound_addresses `:
 
-[https://api-test.h4s.dojima.network/hermeschain/inbound_addresses](https://api-test.h4s.dojima.network/hermeschain/inbound_addresses)
+[https://api-dev.h4s.dojima.network/hermeschain/inbound_addresses](https://api-dev.h4s.dojima.network/hermeschain/inbound_addresses)
 
 
 You need to select the address of the Chain the inbound transaction will go to. 

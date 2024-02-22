@@ -21,7 +21,7 @@ https://v1.cosmos.network/rpc/v0.45.1
 
 #### Example URL
 
-[https://api-test.h4s.dojima.network/cosmos/bank/v1beta1/balances/dojima1nh4y3gqxsn7ymm9t45zwsz3h8p9tm7pev8my62](https://api-test.h4s.dojima.network/cosmos/bank/v1beta1/balances/dojima1nh4y3gqxsn7ymm9t45zwsz3h8p9tm7pev8my62)
+[https://api-dev.h4s.dojima.network/cosmos/bank/v1beta1/balances/dojima1nh4y3gqxsn7ymm9t45zwsz3h8p9tm7pev8my62](https://api-dev.h4s.dojima.network/cosmos/bank/v1beta1/balances/dojima1nh4y3gqxsn7ymm9t45zwsz3h8p9tm7pev8my62)
 
 ### Tendermint RPC
 
@@ -39,7 +39,7 @@ The Tendermint RPC allows Tendermint consensus information to be returned.
 
 #### Rpc End Links
 
-[https://rpc-test.h4s.dojima.network](https://rpc-test.h4s.dojima.network)
+[https://rpc-dev.h4s.dojima.network/](https://rpc-dev.h4s.dojima.network/)
 
 #### P2P
 

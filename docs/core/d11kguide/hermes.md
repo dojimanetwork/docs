@@ -28,7 +28,7 @@ This package uses the following service providers:
 
 | Network | Node                                | RPC                                 |
 |---------|-------------------------------------|-------------------------------------|
-| Testnet | https://api-test.h4s.dojima.network | https://rpc-test.h4s.dojima.network |
+| Testnet | https://api-dev.h4s.dojima.network | https://rpc-dev.h4s.dojima.network/ |
 | Mainnet | NA                                  | NA                                  |
 
 > **Note** : 'Mainnet' is currently under process. Not applicable yet.
