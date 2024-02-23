@@ -27,7 +27,7 @@ title: Network Endpoints
 | **New RPC URL**                   	 | https://rpc.d11k.dojima.network:/ |
 | **Chain ID**                      	 | 1401                      	                |
 | **Currency symbol**    	            | DOJ                       	                |
-| **Block Explorer URL** 	            | https://explorer-dev.dojima.network/       |
+| **Block Explorer URL** 	            | https://explorer.dojima.network/       |
 <!-- ## Testnet
 
 

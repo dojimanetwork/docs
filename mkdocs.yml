@@ -71,9 +71,9 @@ nav:
           - Resources :
             - Network Endpoints: developer/Network/endpoints.md
             - Faucet: core/Resources/faucet.md 
-            # - Transaction: core/Resources/transaction.md  
+            - Transaction: core/Resources/transaction.md  
           - Concepts:
-            - Code Liberies: core/concepts/code.liberies.md
+            - Code Libraries: core/concepts/code.liberies.md
             - Connecting Doj Chain: core/concepts/connecting.doj.chain.md
             - Querying: core/concepts/querying.md
             - Transaction Memos: core/concepts/transaction.memos.md
