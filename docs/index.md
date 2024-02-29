@@ -18,6 +18,7 @@ hide:
 
 <div class="main">
 	<header class="section">
+	 <script defer src="https://widget.mava.app" widget-version="v2" id="MavaWebChat" data-token="51a6a65658ef67bc94cffabeadd9cbb7879bf2233995bfafb03416ab12fde47d"></script>
 		<div class="container-global">
 			<div class="section-wrapper">
 				<div class="hero-content-flex">
