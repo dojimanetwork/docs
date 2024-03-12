@@ -12,8 +12,8 @@ title: Network Endpoints
 | **Field**                         	 | **Testnet**               	                |
 |-------------------------------------|--------------------------------------------|
 | **Network Name**                  	 | Dojima chain    	                          |
-| **Http Api URL**                    | https://api-dev.d11k.dojima.network/ |
-| **New RPC URL**                   	 | https://rpc-dev.d11k.dojima.network/ |
+| **RPC URL**                    | https://api-dev.d11k.dojima.network/ |
+| **WS URL**                   	 | https://rpc-dev.d11k.dojima.network/ |
 | **Chain ID**                      	 | 1001                      	                |
 | **Currency symbol**    	            | DOJ                       	                |
 | **Block Explorer URL** 	            | https://explorer-dev.dojima.network/       |
@@ -23,8 +23,8 @@ title: Network Endpoints
 | **Field**                         	 | **Stagenet**               	                |
 |-------------------------------------|--------------------------------------------|
 | **Network Name**                  	 | Dojima chain    	                          |
-| **Http Api URL**                    | https://api.d11k.dojima.network:/ |
-| **New RPC URL**                   	 | https://rpc.d11k.dojima.network:/ |
+| **RPC URL**                    | https://api.d11k.dojima.network/ |
+| **WS URL**                   	 | https://rpc.d11k.dojima.network/ |
 | **Chain ID**                      	 | 1401                      	                |
 | **Currency symbol**    	            | DOJ                       	                |
 | **Block Explorer URL** 	            | https://explorer.dojima.network/       |
