@@ -69,7 +69,7 @@ nav:
             - Hermes Bridge: core/chain-clients/evm/hermes-bridge.md
             - Ethereum State Sender Contract: core/chain-clients/evm/state-sender-contract.md
           - Resources :
-            - Network Endpoints: developer/Network/endpoints.md
+            - Network Endpoints: core/resources/endpoints.md
             - Faucet: core/resources/faucet.md 
             - Transaction: core/resources/transaction.md  
           - Concepts:
