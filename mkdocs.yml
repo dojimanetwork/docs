@@ -69,9 +69,9 @@ nav:
             - Hermes Bridge: core/chain-clients/evm/hermes-bridge.md
             - Ethereum State Sender Contract: core/chain-clients/evm/state-sender-contract.md
           - Resources:
-            - Network Endpoints: developer/Resources/endpoints.md
-            - Faucet: core/wallet/faucet.md 
-            - Transaction: core/wallet/transaction.md  
+            - Network Endpoints: developer/resources/endpoints.md
+            - Faucet: core/resources/faucet.md 
+            - Transaction: core/resources/transaction.md  
           - Concepts:
             - Code Libraries: core/concepts/code.liberies.md
             - Connecting Doj Chain: core/concepts/connecting.doj.chain.md
@@ -109,8 +109,8 @@ nav:
             # - Network : 
             #   - Network EndPoints: developer/Network/endpoints.md
             - Resources :
-                Basics of Web3 Development: developer/Resources/basic.md
-                External Documentation: developer/Resources/external.md
+                Basics of Web3 Development: developer/resources/basic.md
+                External Documentation: developer/resources/external.md
             - Wallet:
               - Get Started: developer/Wallet/getstarted.md
               - Metamask : 
