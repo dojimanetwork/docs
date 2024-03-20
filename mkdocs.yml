@@ -52,7 +52,7 @@ nav:
            - Hermes Chain: core/architecture/hermeschain.md
        - Dojima :
          - Network : 
-           - Network EndPoints: developer/Network/endpoints.md
+           - Network EndPoints: developer/network/endpoints.md
          - Contract:
            - Inbound State Sender: core/architecture/contracts/inbound_state_sender.md
            - Outbound State Sender: core/architecture/contracts/outbound_state_sender.md
