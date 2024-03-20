@@ -68,8 +68,8 @@ nav:
                   - Solana State Sender: core/chain-clients/nonevm/solana/solana-state-sender.md
             - Hermes Bridge: core/chain-clients/evm/hermes-bridge.md
             - Ethereum State Sender Contract: core/chain-clients/evm/state-sender-contract.md
-          - Resources :
-            - Network Endpoints: core/resources/endpoints.md
+          - Resources:
+            - Network Endpoints: developer/Network/endpoints.md
             - Faucet: core/resources/faucet.md 
             - Transaction: core/resources/transaction.md  
           - Concepts:
