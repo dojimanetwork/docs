@@ -99,7 +99,7 @@ hide:
 				</a>
 				<a class="middle-p" href="tools/dojima-faas/">
 				<div class="right-grid-a">
-				 <p class="right-p">Dojima Fass</p>
+				 <p class="right-p">Dojima FAAS</p>
 				<img src="img/rightuparrow.svg" loading="lazy" alt="">
 				  <!-- <div class="live">Live</div> -->
 				</div>
