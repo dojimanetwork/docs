@@ -29,7 +29,7 @@ hide:
    <!-- <div class="grid-item">
       <a href="./get-started/quickstart-validium">
          <div class="product-list-item-header">
-            <div class="feature-card-heading">Dojima Fass</div>
+            <div class="feature-card-heading">Dojima FAAS</div>
          </div>
          <p class="feature-paragraph">Get started with the CDK validium stack.</p>
       </a>

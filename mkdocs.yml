@@ -135,8 +135,8 @@ nav:
          - Create Account : tools/wallet/index.md 
          - Wallet Login : tools/wallet/wallet-login.md
          - Wallet Swap : tools/wallet/wallet-swap.md
-       - Dojima FASS :
-         - Dojima Fass: tools/dojima-faas/index.md
+       - Dojima FAAS :
+         - Dojima FAAS: tools/dojima-faas/index.md
          - Account: tools/dojima-faas/faasaccount.md
          - Price Stats: tools/dojima-faas/faaspricestats.md
          - User: tools/dojima-faas/faasuser.md

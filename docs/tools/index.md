@@ -30,7 +30,7 @@ hide:
    <div class="grid-item">
       <a href="dojima-faas">
          <div class="product-list-item-header">
-            <div class="feature-card-heading">Dojima Fass</div>
+            <div class="feature-card-heading">Dojima FAAS</div>
          </div>
          <p class="feature-paragraph">You can get blockchain functionality as a service from Dojima FAAS, like signing transactions, viewing transaction histories and more.</p>
       </a>
