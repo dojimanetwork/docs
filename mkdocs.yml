@@ -109,8 +109,8 @@ nav:
             # - Network : 
             #   - Network EndPoints: developer/Network/endpoints.md
             - Resources :
-                Basics of Web3 Development: developer/Resources/basic.md
-                External Documentation: developer/Resources/external.md
+                Basics of Web3 Development: developer/sources/basic.md
+                External Documentation: developer/sources/external.md
             - Wallet:
               - Get Started: developer/Wallet/getstarted.md
               - Metamask : 
