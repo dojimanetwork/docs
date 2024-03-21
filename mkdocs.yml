@@ -52,10 +52,10 @@ nav:
            - Hermes Chain: core/architecture/hermeschain.md
        - Dojima :
          - Network : 
-           - Network EndPoints: core/sources/endpoints.md
+           - Network EndPoints: core/network/endpoints.md
          - Contract:
            - Inbound State Sender: core/architecture/contracts/inbound_state_sender.md
-           - Outbound State Sender: core/architecture/contracts/outbound_state_sender.md
+           - Outbound State Sender: core/architecture/contracts/outbound_state_sender.md     
        - Hermes :
           - Chain Clients:
             - Evm:
@@ -69,9 +69,9 @@ nav:
             - Hermes Bridge: core/chain-clients/evm/hermes-bridge.md
             - Ethereum State Sender Contract: core/chain-clients/evm/state-sender-contract.md
           - Resources:
-            - Network Endpoints: developer/sources/endpoints.md
-            - Faucet: core/sources/faucet.md 
-            - Transaction: core/sources/transaction.md  
+            - Network Endpoints: core/resources/endpoints.md
+            - Faucet: core/resources/faucet.md 
+            - Transaction: core/resources/transaction.md 
           - Concepts:
             - Code Libraries: core/concepts/code.liberies.md
             - Connecting Doj Chain: core/concepts/connecting.doj.chain.md
