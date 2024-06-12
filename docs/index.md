@@ -31,11 +31,11 @@ hide:
 						</div>
 						<a class="button-container" href="core/">
 							<button class="getstarted-button">
-							Get Started <img src="img/rounded-right-arrow.svg" loading="lazy" alt="">
+							Get Started <img src="img/rounded-right-arrow.svg" loading="lazy" alt="Dojima Wallet">
 							</button>
 						</a>
 					</div>
-					<div class="hero-right"><img src="img/rightimage.svg" loading="lazy" alt="" class="hero-image"></div>
+					<div class="hero-right"><img src="img/rightimage.svg" loading="lazy" alt="hero-image" class="hero-image"></div>
 				</div>
 			</div>
 		</div>
@@ -45,16 +45,16 @@ hide:
 	 <div class="card-container">
 			<div class="div-card">
 				<div class="div-card-header">
-				<img src="img/Core-Icon.png" loading="lazy" alt="">
+				<img src="img/Core-Icon.png" loading="lazy" alt="What is Dojima Network">
 					<h3>Core</h3>
 				</div>
 				<p class="div-leftcard-p">Unveiling Dojima Network's essence, highlighting the innovative infrastructure of Hermes and Dojima chains.</p>
 				<div class="div-card-button-container">
 					<a class="div-card-button" href="core/what-is-dojima-network/">
-							What is Dojima Network? <img src="img/rightuparrow.svg" loading="lazy" alt="">
+							What is Dojima Network? <img src="img/rightuparrow.svg" loading="lazy" alt="Dojima">
 					</a>
 					<a class="div-card-button" href="core/architecture/hermeschain/">
-						Hermes Chain <img src="img/rightuparrow.svg" loading="lazy" alt="">
+						Hermes Chain <img src="img/rightuparrow.svg" loading="lazy" alt="Dojima">
 					</a>
 			   </div>
     	   </div>
@@ -62,16 +62,16 @@ hide:
 		 <div class="card-container">
 			<div class="div-card">
 				<div class="div-card-header">
-				<img src="img/Developer-Icon.png" loading="lazy" alt="">
+				<img src="img/Developer-Icon.png" loading="lazy" alt="Developers">
 					<h3>Developers</h3>
 				</div>
 				<p class="div-leftcard-p">Your resource hub for seamless onboarding and support within our evolving ecosystem.</p>
 				<div class="div-card-button-container">
 					<a class="div-card-button" href="developer/templates/omni_chain_ERC20/">
-							Templates <img src="img/rightuparrow.svg" loading="lazy" alt="">
+							Templates <img src="img/rightuparrow.svg" loading="lazy" alt="Dojima">
 					</a>
 					<a class="div-card-button" href="developer/faucet/">
-						Faucet<img src="img/rightuparrow.svg" loading="lazy" alt="">
+						Faucet<img src="img/rightuparrow.svg" loading="lazy" alt="Dojima">
 					</a>
 					<div class="right-grid-a" >
 				 <a class="left-p ">Developer Dashboard</a>
@@ -84,14 +84,14 @@ hide:
 	<div class="div-left-grid">
 	   <div class="right-card-container">
 	           <div class="div-card-header">
-				<img src="img/Tools-Icon.png" loading="lazy" alt="">
+				<img src="img/Tools-Icon.png" loading="lazy" alt="Dojima tools">
 					<h3>Tools</h3>
 				</div>
 				<p class="first-p">Explore our versatile tools section featuring a cross-chain wallet, innovative FAAS solution, and developer dashboard for seamless integration.</p>
 				<a class="middle-p" href="tools/wallet/">
 				<div class="right-grid-a">
 				 <p class="right-p  ">Dojima Wallet</p>
-			<img src="img/rightuparrow.svg" loading="lazy" alt="">
+			<img src="img/rightuparrow.svg" loading="lazy" alt="Dojima">
 				  </svg>
 				  <!-- <div class="live">Live</div> -->
 				</div>
@@ -100,7 +100,7 @@ hide:
 				<a class="middle-p" href="tools/dojima-faas/">
 				<div class="right-grid-a">
 				 <p class="right-p">Dojima FAAS</p>
-				<img src="img/rightuparrow.svg" loading="lazy" alt="">
+				<img src="img/rightuparrow.svg" loading="lazy" alt="Dojima">
 				  <!-- <div class="live">Live</div> -->
 				</div>
 				  <p style="margin-top:8px">Dojima FAAS offers blockchain services like transaction signing and history viewing.</p>
@@ -116,7 +116,7 @@ hide:
 	    </div>
 	   <div class="right-card-container">
 	<div class="div-card-header">
-				<img src="img/Validator-Icon.png" loading="lazy" alt="">
+				<img src="img/Validator-Icon.png" loading="lazy" alt="Validator">
 					<h3>Validator</h3>
 				</div>
 				<p>Unlock the path to becoming a valued validator with our comprehensive documentation, empowering you to safeguard the integrity of our blockchain network.</p>
