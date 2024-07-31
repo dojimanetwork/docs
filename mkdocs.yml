@@ -2,7 +2,7 @@ site_name: Dojima Docs
 site_author: Dojima Network
 copyright: Copyright &copy; 2024 Dojima Network
 edit_uri: edit/main/docs/
-site_url: https://docs.polygon.technology/
+site_url: docs.dojima.network/
 
 extra_css:
   - _site_essential/stylesheets/output.css
