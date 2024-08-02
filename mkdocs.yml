@@ -185,7 +185,7 @@ extra_css:
   - _site_essentials/stylesheets/dojima-docs.webflow.css
   - _site_essentials/stylesheets/extra.css
   - https://fonts.googleapis.com/icon?family=Material+Icons
-  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
+  # - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
 
 markdown_extensions:
   - pymdownx.superfences
@@ -234,8 +234,8 @@ plugins:
 validation:
   absolute_links: ignore
 
-extra_javascript:
-  - _site_essentials/js/mathjax.js
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
-  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
+# extra_javascript:
+#   - _site_essentials/js/mathjax.js
+#   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+#   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js
+#   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
