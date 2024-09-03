@@ -39,7 +39,6 @@ theme:
     - navigation.footer
     - toc.follow
     - content.code.copy
-    - content.action.edit
 
 nav:
   - Home: index.md
