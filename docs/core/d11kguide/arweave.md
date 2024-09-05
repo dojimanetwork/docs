@@ -1,5 +1,6 @@
 ---
-title : Arweave
+title : Arweave Integration Guide
+description: Detailed guide on integrating Arweave with Dojima Network for decentralized data storage.
 ---
 
 

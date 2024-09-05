@@ -1,6 +1,6 @@
 ---
-title : Code Libraries
-
+title : Code Libraries in Dojima Network
+description: Explore the code libraries available within Dojima Network for efficient development and integration.
 ---
 The following libraries will help you in your integration
 

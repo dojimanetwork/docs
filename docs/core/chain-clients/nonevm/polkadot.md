@@ -1,5 +1,6 @@
 ---
-title: Polkadot Chain Client
+title: Polkadot Client on Dojima Network
+description: Learn about Polkadot client integration within Dojima Network, enhancing cross-chain capabilities.
 ---
 
 ## Introduction

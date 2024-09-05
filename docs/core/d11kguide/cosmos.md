@@ -1,5 +1,6 @@
 ---
-title: Cosmos
+title: Cosmos Integration Guide
+description: Guide on integrating Cosmos blockchain with Dojima Network to enable cross-chain functionality.
 ---
 
 # `@d11k-ts/cosmos`

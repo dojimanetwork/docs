@@ -1,6 +1,6 @@
 ---
-title : Querying HERMESChain
-
+title : Querying Data in Dojima Network
+description: Learn how to query data within the Dojima Network, accessing essential information efficiently.
 ---
 
 How to Query HERMESChain

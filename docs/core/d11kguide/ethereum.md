@@ -1,6 +1,6 @@
 ---
-title : Ethereum
-
+title : EtheEthereum Integration Guidereum
+description: Guide to integrating Ethereum with Dojima Network, enhancing cross-chain compatibility.
 ---
 
 

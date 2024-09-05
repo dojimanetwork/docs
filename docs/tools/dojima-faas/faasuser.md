@@ -1,5 +1,6 @@
 ---
-title :  User
+title :  User Guide for Dojima FaaS
+description: Comprehensive guide for users on how to effectively utilize Dojima FaaS for blockchain operations.
 ---
 
 **These endpoints are used to create, delete, find or update user.**

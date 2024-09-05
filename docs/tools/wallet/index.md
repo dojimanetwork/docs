@@ -1,6 +1,7 @@
 ---
 id: Wallet-creation
-title: Create Account
+title: Wallet Tools in Dojima Network
+description: Explore various wallet tools available in Dojima Network for secure and efficient transactions.
 sidebar_position: 0
 ---
 

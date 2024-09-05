@@ -1,5 +1,6 @@
 ---
-title :  Account
+title :  Managing FaaS Accounts on Dojima
+description: Guide to managing your Function-as-a-Service (FaaS) account on Dojima Network.
 ---
 
 **These endpoints return details such as public address from seed phrase/mnemonic, balance of the respective input token.**

@@ -1,5 +1,6 @@
 ---
-title: Create & Import Accounts
+title: Managing Multiple Accounts on MetaMask
+description: Guide to managing multiple accounts on MetaMask while connected to Dojima Network.
 image: https://matic.network/banners/matic-network-16x9.png 
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: External Documentation
+title: External Developer Sources
+description: Access external sources and libraries for advanced development within the Dojima Network.
 ---
 - [ConsenSys Academy Developer Course](https://consensys.net/academy/ondemand/)
 - [Infura Docs](https://infura.io/docs)

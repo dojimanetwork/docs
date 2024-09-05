@@ -1,7 +1,10 @@
 ---
+title: Dojima Network Documentation Overview
+description: Explore comprehensive guides and resources on the Dojima Network's architecture, tools, and development.
 hide:
   - navigation
   - toc
+  - site_name
 ---
 
 <style>

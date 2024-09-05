@@ -1,5 +1,6 @@
 ---
-title: Client
+title: EVM Client for Dojima Network
+description: Overview of the EVM client integration in Dojima Network, supporting Ethereum-based interactions.
 ---
 
 ### Introduction

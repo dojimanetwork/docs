@@ -1,4 +1,6 @@
 ---
+title: Developer Resources for Dojima Network
+description: Access developer tools, templates, and resources to build and integrate with Dojima Network.
 hide:
   - toc
 ---

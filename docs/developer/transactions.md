@@ -1,5 +1,6 @@
 ---
-title: Transactions
+title: Managing Transactions in Dojima Network
+description: Learn how to manage and track transactions effectively within the Dojima Network ecosystem.
 ---
 
 ## Here's the guide to sending a Dojima coin to any account

@@ -1,5 +1,6 @@
 ---
-title: Arweave Chain Client
+title: Arweave Client on Dojima Network
+description: Discover the integration of Arweave with Dojima Network for secure, decentralized data storage.
 ---
 
 ## Introduction

@@ -1,5 +1,6 @@
 ---
-title: Config Custom Tokens
+title:  Adding Custom Tokens on MetaMask
+description: Learn how to add and manage custom tokens within MetaMask using the Dojima Network.
 ---
 
 

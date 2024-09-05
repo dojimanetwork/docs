@@ -1,5 +1,6 @@
 ---
-title: Transaction Memos
+title: Transaction Memos on Dojima Network
+description: Understand the use of transaction memos within Dojima Network for better transaction tracking.
 ---
 Transaction Memo Details
 

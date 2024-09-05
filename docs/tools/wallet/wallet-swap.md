@@ -1,5 +1,6 @@
 ---
-title: Swap
+title: Wallet Swap Guide in Dojima Network
+description: Learn how to swap assets within your wallet using the Dojima Network's swap tools.
 ---
 
 Users can swap any assets that are on connected chains and that have been added to the network. Users can swap from any connected asset to any other connected asset. They can also swap from any connected asset to DOJ.

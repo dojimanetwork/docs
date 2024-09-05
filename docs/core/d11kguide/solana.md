@@ -1,5 +1,6 @@
 ---
-title: Solana
+title: Solana Integration Guide
+description: Detailed guide on integrating Solana with Dojima Network, enabling cross-chain interactions.
 ---
 # `@d11k-ts/solana`
 

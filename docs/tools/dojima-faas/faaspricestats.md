@@ -1,5 +1,6 @@
 ---
-title: Prices Stats
+title: Price Stats in Dojima FaaS
+description: Access and analyze price statistics within Dojima FaaS for informed decision-making.
 ---
 **These endpoints return details such as token latest prices, stats, history based particular date or past n days or in between certain dates.**
 

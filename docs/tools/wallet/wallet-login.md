@@ -1,5 +1,6 @@
 ---
-title: Login
+title: Wallet Login Guide for Dojima Network
+description: Step-by-step guide on how to securely log in to your wallet within Dojima Network.
 sidebar_position: 1
 ---
 

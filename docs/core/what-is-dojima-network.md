@@ -1,3 +1,7 @@
+---
+title: What is Dojima Network?
+description: Learn the fundamentals of Dojima Network, its purpose, and how it revolutionizes blockchain technology.    
+---
 Dojima Network is an omnichain Layer-1 designed to integrate the diverse Web3 ecosystem into a single, unified layer that revolutionizes the way decentralized applications (DApps) are developed and utilized across multiple blockchain networks.
 
 It introduces a unique architecture composed of two primary components:

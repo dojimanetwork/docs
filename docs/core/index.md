@@ -1,4 +1,6 @@
 ---
+title: Core Concepts of Dojima Network
+description: Delve into the core components of Dojima Network, including architecture, chain clients, and key features.
 hide:
   - toc
 ---

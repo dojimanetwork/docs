@@ -1,5 +1,6 @@
 ---
-title: Crypto
+title: Cryptocurrency Integration Guide
+description: Explore how to integrate various cryptocurrencies into Dojima Network for seamless transactions.
 ---
 
 # `@d11k-ts/crypto`

@@ -1,5 +1,6 @@
 ---
-title: How to create a MetaMask Wallet?
+title: MetaMask Tutorial for Dojima Network
+description: Comprehensive tutorial on setting up and using MetaMask with Dojima Network.
 ---
 If you are wondering how to create a new cryptocurrency wallet, consider creating one by installing the MetaMask extension.
 

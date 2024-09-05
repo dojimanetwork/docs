@@ -1,5 +1,6 @@
 ---
-title : Binance-Beacon
+title : Binance Beacon Integration
+Description: Learn about integrating Binance Beacon Chain with Dojima Network for enhanced functionality.
 ---
 
 # `@d11k-ts/binance-beacon`

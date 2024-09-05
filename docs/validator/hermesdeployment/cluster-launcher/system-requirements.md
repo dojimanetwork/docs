@@ -1,5 +1,6 @@
 ---
-title: System Requirements
+title: System Requirements for Cluster Launcher
+description: Learn about the system requirements needed to deploy a cluster launcher in Dojima Network.
 ---
 
 The system requirements listed in this section are both for the [Hermes](/architecture/introduction.md) node and the [Dojima](/developers/quickstart.md) node.

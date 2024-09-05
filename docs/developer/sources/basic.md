@@ -1,5 +1,6 @@
 ---
-title: Basics of Web3 Development
+title: Basic Developer Sources
+description: Explore basic sources for developers working within the Dojima Network to kickstart their projects.
 sidebar_position: 2
 ---
 

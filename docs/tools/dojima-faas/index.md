@@ -1,6 +1,7 @@
 ---
 id: dojimafaas
-title: Dojima-FaaS
+title: Dojima FaaS Overview
+description: Overview of the Dojima FaaS platform, offering Function-as-a-Service for blockchain operations.
 ---
 
 ## Dojima faas

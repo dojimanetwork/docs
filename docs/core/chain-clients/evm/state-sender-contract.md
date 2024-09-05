@@ -1,5 +1,6 @@
 ---
-title: Ethereum State Sender Contract
+title: EVM State Sender Contract
+description: Overview of the EVM state sender contract, critical for Ethereum compatibility within Dojima Network.
 ---
 
 ## Introduction

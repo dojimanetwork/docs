@@ -1,5 +1,6 @@
 ---
-title: Faucet
+title: Dojima Network Faucet Guide
+description: Learn how to use the Dojima Network faucet to obtain test tokens for development and testing.
 ---
 
 The Faucet is a web-based service that can send you some test tokens so that you can explore and experiment with testnet without having to pay for anything.

@@ -1,5 +1,6 @@
 ---
-title : Transaction Details
+title : Transaction Details in Dojima FaaS
+description: Detailed view of transaction details within Dojima FaaS for tracking and analysis.
 ---
 
 **Returns transaction details such as detailed transaction data, transactions history based on mentioned token, network and related data.**

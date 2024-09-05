@@ -1,5 +1,6 @@
 ---
-title : Connecting to HERMESChain
+title : Connecting to Dojima Chain
+description: Step-by-step guide on how to connect and interact with the Dojima Chain using various tools.
 ---
 
 How to connect to Hermesgard, HERMESNode and the base Tendermint layer.

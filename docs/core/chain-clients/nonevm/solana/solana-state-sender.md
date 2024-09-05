@@ -1,3 +1,8 @@
+---
+title: Solana State Sender on Dojima Network
+description: Guide on Solana state sender client, enabling Solana blockchain connectivity within Dojima Network.
+---
+
 The solana-state-sender program is named as solana-dojima-bridge.
 This program maintains the mapping of registered programs on solana blockchain(Only registered programs can interact with state-sender program).
 Solana programs should register and call this state-sender program to interact with other contracts on destination chains.

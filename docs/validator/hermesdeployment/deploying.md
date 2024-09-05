@@ -1,5 +1,6 @@
 ---
-title: Deploying
+title: Deploying Hermes on Dojima Network
+description: Guide on deploying the Hermes Chain within the Dojima Network ecosystem effectively.
 position: 3
 ---
 

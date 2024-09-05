@@ -1,5 +1,6 @@
 ---
-title: Overview
+title: Cluster Launcher Overview
+description: Overview of the cluster launcher deployment process within the Dojima Network's Hermes ecosystem.
 position: 1
 ---
 

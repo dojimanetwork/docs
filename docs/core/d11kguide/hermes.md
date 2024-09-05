@@ -1,5 +1,6 @@
 ---
-title : Hermes
+title : Hermes Integration Guide
+description : Overview of integrating Hermes Chain with Dojima Network for efficient cross-chain transactions.
 ---
 
 

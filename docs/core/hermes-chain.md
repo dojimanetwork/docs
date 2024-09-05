@@ -1,5 +1,7 @@
-<!-- --title: OmniChainERC20Contract  -->
-<!-- Suite Documentation--[//]: # (---)[//]: -->
+---
+title: Hermes Chain Architecture
+description: Explore the architecture of Hermes Chain within Dojima Network and its unique features.  
+---
 
 # Omnichain ERC20 Chain
 

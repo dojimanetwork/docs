@@ -1,5 +1,6 @@
 ---
-title: Utils
+title: Utility Tools for Dojima Network
+description: Explore the various utility tools available for developers within the Dojima Network ecosystem.
 ---
 
 # `@d11k-ts/utils`

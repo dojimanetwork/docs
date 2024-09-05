@@ -1,5 +1,6 @@
 ---
-title : Bitcoin
+title : Bitcoin Integration on Dojima Network
+description: Detailed guide on integrating Bitcoin with Dojima Network to enable Bitcoin transactions.
 ---
 
 # `@d11k-ts/bitcoin`

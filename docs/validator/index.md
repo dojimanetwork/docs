@@ -1,4 +1,6 @@
 ---
+title: Validator Guide for Dojima Network
+description: Detailed guide for validators on Dojima Network, including deployment, setup, and system requirements.
 hide:
   - toc
 ---

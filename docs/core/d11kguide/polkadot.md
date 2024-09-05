@@ -1,5 +1,6 @@
 ---
-title: Polkadot
+title: Polkadot Integration Guide
+description: Learn how to integrate Polkadot with Dojima Network to leverage cross-chain capabilities.
 ---
 
 

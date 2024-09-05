@@ -1,5 +1,6 @@
 ---
-title: Client
+title:  Client Integration Guide
+description: Learn how to integrate clients with Dojima Network for smooth communication and operations.
 ---
 
 # `@d11k-ts/client`

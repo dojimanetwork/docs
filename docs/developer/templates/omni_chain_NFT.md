@@ -1,5 +1,6 @@
 ---
 title: OmniChain NFT Template Documentation
+description: Utilize Omni-Chain NFT templates for seamless NFT integration within Dojima Network.
 ---
 
 [//]: # "---"

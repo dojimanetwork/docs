@@ -1,5 +1,6 @@
 ---
 title: Deposit Manager Template Documentation
+description: Access deposit manager templates to facilitate deposits within the Dojima Network ecosystem.
 ---
 
 [//]: # "---"

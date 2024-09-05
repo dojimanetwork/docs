@@ -1,5 +1,6 @@
 ---
-title: Outbound State Sender
+title: Outbound State Sender Contract
+description: Learn about the outbound state sender contract in Dojima Network and its operational details.
 ---
 
 ## The Outbound State Sender Contract

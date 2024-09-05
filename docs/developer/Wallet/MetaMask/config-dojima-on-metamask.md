@@ -1,5 +1,6 @@
 ---
-title: Add Dojima Network
+title: Configuring Dojima on MetaMask
+description: Step-by-step guide to configure Dojima Network on MetaMask for seamless wallet integration.
 ---
 
 

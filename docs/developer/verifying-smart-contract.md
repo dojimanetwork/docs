@@ -1,5 +1,6 @@
 ---
-title: Verifying A Smart Contract
+title: Verifying Smart Contracts on Dojima
+description: Guide on how to verify smart contracts deployed within the Dojima Network for security and trust.
 ---
 
 Once verified, a smart contract or token contract's source code becomes publicly available and verifiable. This creates transparency and trust. Plus, it's easy to do! Verification is available for Solidity.

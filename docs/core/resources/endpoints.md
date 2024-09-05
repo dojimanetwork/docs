@@ -1,5 +1,6 @@
 ---
-title: Network Endpoints
+title: Endpoint Resources in Dojima Network
+Description: Access and utilize various endpoints available within Dojima Network for smooth integration.
 ---
 
 ## Testnet

@@ -1,5 +1,6 @@
 ---
-title: Hermes Bridge
+title: Hermes Bridge in Dojima Network
+description: Learn about the Hermes bridge, facilitating cross-chain transactions within the Dojima ecosystem.
 ---
 
 ## Introduction

@@ -1,5 +1,6 @@
 ---
-title: Setup AWS
+title: Setting Up AWS for Cluster Launcher
+description: Step-by-step guide to setting up AWS for cluster launcher deployment within Dojima Network.
 position: 8
 ---
 

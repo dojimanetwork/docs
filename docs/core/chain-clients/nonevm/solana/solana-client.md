@@ -1,5 +1,6 @@
 ---
-title: Solana Chain Client
+title: Solana Client on Dojima Network
+D=description: Overview of the Solana client integration, facilitating seamless interaction with Solana blockchain.
 ---
 ## [Introduction](https://solana.com)
 

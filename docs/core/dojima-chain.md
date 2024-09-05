@@ -1,3 +1,8 @@
+---
+title: Dojima Chain Overview
+description: An overview of Dojima Chain, its architecture, and how it interacts within the Dojima ecosystem.   
+---
+
 "What is Dojima Chain?"
 Dojima Chain is an integral layer of the Dojima Network, specifically tailored for seamless integration of assets, NFTs, and DeFi applications across various blockchains. It stands out for its commitment to security, interoperability, and scalability, powered by a decentralized network of validators.
 

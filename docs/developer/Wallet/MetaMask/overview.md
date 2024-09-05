@@ -1,5 +1,6 @@
 ---
-title: Overview of MetaMask
+title:  MetaMask Overview with Dojima Network
+description: An overview of using MetaMask with Dojima Network for secure and flexible transactions.
 ---
 
 [MetaMask](https://metamask.io/) is a crypto wallet that can be used in a web browser and on mobile devices to interact with the Ethereum blockchain. It allows you to run Ethereum Dapps (Decentralized Apps) right in your browser without running a full Ethereum node.

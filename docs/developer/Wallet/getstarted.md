@@ -1,5 +1,6 @@
 ---
-title: Wallet
+title: Getting Started with Dojima Wallet
+description: A beginner’s guide to getting started with Dojima Wallet for secure and efficient transactions.
 sidebar_position: 0
 ---
 

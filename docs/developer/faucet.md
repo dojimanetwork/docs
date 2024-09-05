@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
-title: Faucet
+title: Developer Faucet for Dojima Network
+description: Use the developer faucet to acquire tokens for testing and development within Dojima Network.
 ---
 
 The Faucet is a web-based service that can send you some test tokens so that you can explore and experiment with testnet without having to pay for anything.

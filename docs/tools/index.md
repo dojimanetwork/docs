@@ -1,4 +1,6 @@
 ---
+title: Tools for Dojima Network Users
+description: Discover various tools available on Dojima Network, including wallets, FaaS, and more.
 hide:
   - toc
 ---

@@ -1,5 +1,6 @@
 ---
 title: OmniChain ERC20 Template Documentation
+description: Access templates for deploying Omni-Chain ERC20 tokens within the Dojima Network.
 ---
 
 [//]: # "---"

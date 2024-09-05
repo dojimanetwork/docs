@@ -1,5 +1,6 @@
 ---
-title: Transactions
+title: Transaction Resources on Dojima Network
+description: Comprehensive guide to understanding and executing transactions within the Dojima Network.
 ---
 
 ## Guide to sending a Dojima coin to any account

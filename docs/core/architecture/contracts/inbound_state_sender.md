@@ -1,5 +1,6 @@
 ---
-title: Inbound State Sender
+title:  Inbound State Sender Contract
+description: Understand the inbound state sender contract's role and function within Dojima Network.
 ---
 
 ## The Inbound State Sender Contract
